@@ -1,0 +1,1194 @@
+                                        I. Preliminary Chapter
+
+Answers to Frequently Asked Questions
+
+QI.1 What simplification has been carried out in section 2 pertaining to ‘definitions’ in
+the new Bill?
+
+Ans.    Following simplifications have been carried out:
+   i.   The language has been simplified wherever possible, without disturbing the meaning;
+  ii.   All definitions continue to be in alphabetical order;
+ iii.   Terms which have been defined at a number of places in the Income-tax Act, 1961 in
+        the same manner have now been placed in section 2 itself. For example, the definition
+        of ‘senior citizen’, which was appearing at six places in the 1961 Act, has been now
+        placed in section 2;
+
+QI.2 What is a ‘tax year’? What does it replace? What was the need for introducing
+it? Why was the term ‘financial year’ not used in place of the term ‘tax year’?
+
+Ans. A ‘tax year’ is a period of twelve months contained in a financial year. It replaces the term
+‘previous year’ used in the Income-tax Act, 1961. Further, with the discontinuance of the use
+of the term ‘assessment year’ in the Income-tax Bill, now the term ‘tax year’ will now be used
+in relation to the rate or rates of income-tax also. In addition, any assessment of the income or
+total income will also be done for a ‘tax year’.
+
+Use of the terms ‘previous year’ and ‘assessment year’ were creating confusion in the minds
+of the taxpayers as they represented two different financial years. The rationale for the use of
+two terms is no longer valid in view of alignment of ‘previous year’ with the financial year or
+part of the financial year (in specific cases). The term ‘Tax year’ is commonly used in income-
+tax legislation in comparable tax jurisdictions.
+
+As a tax year can be a period which is less than the financial year in certain cases, the term
+‘financial year’ has not been used while doing away with the terms ‘previous year’ and
+‘assessment year’. However, many actions are carried out by tax authorities and other
+stakeholders while implementing the tax law, being procedural actions and compliances, such
+as time period for filing returns, rectifications etc, which require reference to a financial year.
+In such cases, the time period denoted by a financial year has more relevance. This means that
+the term ‘financial year’ is required separately.
+
+QI.3 Is ‘financial year’ also defined in the new Bill? Has the term ‘financial year’ also
+been used in the new Bill? Why is it still appearing in the Bill if it is the same as a ‘tax
+year?
+
+
+
+
+                                                                                                 1
+Ans: The term ‘financial year is not defined in the Income-tax Bill. It is not defined in the
+Income-tax Act, 1961 also. It is defined in section 3(21) of the General Clauses Act, 1897 as
+the year commencing on 1st April.
+
+The term ‘financial year’ has been used in the Income-tax Bill. For example, in the proposed
+section 21(5) of the Bill, reference has been made to a financial year in relation to the
+completion certificate issued by a competent authority in case of a building held as stock-in-
+trade. In such cases, the term financial year has relevance instead of the term ‘tax year’.
+
+QI.4    Can a ‘tax year’ be a period which is less than a ‘financial year’?
+
+Ans: Yes. This will happen when a business is newly set up during any financial year, or a
+source of income comes into existence during a financial year. In such cases, the tax year will
+begin from the date of setting up of the business or the source of income coming into existence,
+and end on the last day of that financial year.
+
+QI.5 Will the concept of ‘tax year’ conflict with the concept of an ‘assessment year’ at
+any particular time? For example, if the new Act comes into effect from 1st April, 2026,
+will the tax year 2026-27 of the new Act conflict with the Assessment Year 2026-27 of the
+Income-tax Act, 1961?
+
+Ans. No. The reasons are as follows:
+
+   i.   The Assessment Year 2026-27 of the Income-tax Act, 1961 will pertain to the income
+        of a taxpayer for the previous year 2025-26 and not to the income of the financial year
+        2026-27;
+ ii.    The tax year 2026-27 of the new Act will pertain to the income of a taxpayer for the
+        financial year 2026-27;
+ iii.   The assessment for income of the previous year (financial year) 2025-26 of a taxpayer
+        shall be done as per the provisions of the Income-tax Act, 1961 for the assessment year
+        2026-27;
+ iv.    The assessment for income of tax year (financial year) 2026-27 of a taxpayer shall be
+        done as per the provisions of the Bill for tax year 2026-27.
+
+QI.6    Is there any change in the content of the charging section?
+
+Ans. In the Income-tax Act, 1961, the charge of income-tax was on ‘total income’ of the
+‘previous year’ of a person. Further, income-tax is charged for an ‘assessment year’ at the rate
+or rates provided by a Central Act. In the Income-tax Bill, in place of the term ‘previous year’,
+the term ‘tax year’ has been used. Further, the use of term ‘assessment year’ has been
+discontinued. Now, the total income also pertains to a ‘tax year’ and the rate or rates of income-
+tax also pertain to that ‘tax year’.
+
+
+
+                                                                                                2
+QI.7    In what way has the charging section been simplified?
+
+Ans. In the Income-tax Act, 1961, section 4 has two sub-sections and one proviso. Long
+sentences have been used in the section. In the Income-tax Bill, there are five sub-sections,
+explaining the charge of income-tax in smaller and simpler sentences.
+
+QI.8 Whether the Bill has introduced references to ‘Finance Companies’ and ‘Finance
+Units’ in the context of dividends, which could have implications for financial institutions
+and investors?
+
+Ans: The Income Tax Bill 2025 also contains all amendments proposed in Finance Bill 2025.
+Therefore, the users are advised to compare the provisions of the Income Tax Act, 1961, as
+updated with proposed amendments in Finance bill 2025, while reading the Income Tax Bill,
+2025. Therefore, no such additional term has been introduced in the Bill. Finance Bill 2025 has
+proposed exclusion of advance or loans between two group entities where one of the entities is
+“Finance Company” or a “Finance Unit”, from the definition of the term ‘dividend’. The Bill
+only incorporates the proposal made in the Finance Bill, 2025.
+
+
+
+
+                                                                                             3
+                                    II. Non-Profit Organisations
+
+Answers to Frequently Asked Questions
+
+QII.1 Why have the provisions related to non-profit organisations been revamped in this
+Bill?
+
+Ans: The Income-tax Act provides for exemptions to various entities including Government
+funded entities engaged in objects which are charitable in nature. In addition to this, specific
+exemption is also available to entities engaged in certain activities which satisfy social
+purposes. These entities receive donations, voluntary contributions and have other incomes
+from activities which are charitable in nature. The total number of electronically filed returns
+of such entities till 30th November 2024 for the assessment year 2023-24 is 2,50,682. The total
+amount applied by such entities for charitable and religious purposes during the FY 2022-23 is
+Rs 10,01,572.04 crores. Therefore, it was considered necessary to simplify and consolidate all
+the provisions relating to non-profit organisations for ease of understanding and compliance.
+
+QII.2 Where are the provisions related to non-profit organisations contained in the
+present Income-tax Act?
+
+Ans: The present provisions related to registered non-profit organisations are contained across
+the following Chapters:
+
+   i. Chapter I: Charitable Purpose sec 2(15)
+   ii. Chapter III: Sections 10(23C), section 11, section 12, section 12A, section 12AA,
+        section 12AB, section 12AC & section 13
+   iii. Chapter VIA: Section 80G
+   iv. Chapter XII: Section 115BBC, Section 115BBI
+   v. Chapter XII EB: Section 115TD, Section 115TE, Section 115TF
+
+
+QII.3. What are the challenges with the present provisions of the Act related to NPOs?
+
+Ans: The present provisions related to registered non-profit organisations are difficult to
+comprehend due to the following reasons:
+
+   i. Since the provisions are spread across Chapters, there are several cross references.
+   ii. Since the provisions related to registered non-profit organisations evolved with time,
+        several amendments have been brought to the present Act in the form of Explanations
+        and provisos which make them difficult to read. In Section 11 itself, there are 13
+        Explanations and 16 provisos.
+   iii. The interplay of different provisos and Explanations makes it quite difficult to
+        understand.
+
+
+                                                                                              4
+QII.4 What is the approach followed while redrafting the provisions related to registered
+non-profit organisations?
+
+Ans: The following approach has been followed while redrafting the provisions related to non-
+profit organisations:
+    i. The present Act uses different terms such as trust, institution, university, educational
+         institution, hospital etc. in different provisions. A common term registered non-profit
+         organisation has been used in the Bill in line with the international practices.
+    ii. Section 10(23C) uses the term “approval” while section 12AB uses the term
+         “registration”. In order to avoid confusion, “registration” has been used in the Bill.
+    iii. All the provisions related to registered non-profit organisations have been arranged in
+         Part B of Chapter XVII titled “B.––Special Provisions for Registered Non-Profit
+         Organisation” which comprises provisions corresponding to present sections 11,
+         section 12, section 12A, section 12AA, section 12AB, section 13, section 115BBC,
+         section 115BBI, section 115TD, section 115TE, section 115TF, and the provisions
+         related to approval under the first and second proviso to section 80G(5) of the present
+         Income-tax Act.
+    iv. Redundant provisions have been removed.
+    v. Some of the provisions have been tabulated for lucid understanding of different
+         scenarios such as the provisions related to:
+             a. Application for registration;
+             b. Specified income and the tax year in which it is taxable;
+             c. Computation of tax on accreted income
+
+QII.5 How many words have been reduced as a result of this exercise?
+
+Ans: As a result of the exercise, there has been a substantial reduction of the words from the
+approximately 12,800 words to 7,600 words.
+
+
+
+
+                                                                                              5
+QII.6. What is the structure of the new Part?
+
+Ans: The following is the structure of new Part XVII-B
+
+
+
+
+The entire Part related to non-profit organisations has been divided into 7 sub-parts which
+contain the provisions related to registration, income, commercial activities, compliances,
+violations, registrations for the purposes of eligibility of donations and interpretations.
+
+QII.7 What is the meaning of ‘registered non-profit organization’ which is not used in
+the present Act?
+
+Ans: The present Income-tax Act uses different terms such as trust, institution, university,
+educational institution, hospital etc. in different provisions. The term registered non-profit
+organisation has been defined to mean any person having a valid registration under section
+12A, 12AA or 12AB or section 10 (23C) of the Income-tax Act, 1961 and such registration has
+not been cancelled. The use of common term ‘registered non-profit organisation’ intends tp
+avoid confusion and for lucid understanding of the provisions of the Bill.
+
+QII.8 What is the meaning of registration under the new provisions? Is the same word
+registration now used for approval as well?
+
+Ans: Section 10(23C) uses the term “approval” while section 12AB uses the term
+“registration”. In order to avoid confusion, “registration” has been defined in the Bill to include
+provisional registration, provisional approval or approval, as referred to in the second proviso
+to sections 10(23C) or 12AB (1) of the Income-tax Act, 1961 and under proposed section 332
+of the new Income Tax Bill, 2025. However, it does not include approval under the second
+proviso to section 80G (5) of Income Tax Act, 1961 or section 354 of the Income Tax Bill,
+2025.
+
+
+
+
+                                                                                                 6
+QII.9 Will the existing registered non-profit organisations be again required to get
+themselves registered under the new provisions?
+
+Ans: There were two regimes for exemption of registered non-profit organisations. The first
+regime is contained in section 10(23C) and the second one was contained in section 11 to 13
+of the Income Tax Act, 1961. There were certain provisions common to both the regimes that
+were contained in section 115BBC, 115BBI, 115TD, 115TE, 115TF and section 2(15) of the
+Income Tax Act, 1961. The Finance (No. 2) Act, 2024 provides that no application can be made
+under the first regime on or after 01st October, 2024. However, the approvals granted under the
+first regime shall continue to be valid for the period of their approval. They are eligible to apply
+for registration, subsequently, under the second regime.
+
+As per the provisions of the Bill, all the registered non-profit organisations are eligible to claim
+benefits. The registered non-profit organisation has been defined to mean any person having a
+valid registration under section 12A, 12AA or 12AB or section 10 (23C) of the Income-tax
+Act, 1961 and such registration has not been cancelled.
+
+Thus, the Bill proposes to protect the eligibility of existing registered non-profit organisations
+under the first as well as the second regime.
+
+QII.10 Can you provide an example as to how the new provisions will help better
+understand the provisions?
+
+Ans: The provisions of the present Act contained several cross references. The Table in the
+proposed section 332(3) of the Income Tax Bill, 2025 provides the time limits for furnishing
+application, time limit for passing the order and the validity of registration in different cases in
+a very simple and lucid manner.
+
+QII.11 There is a dedicated proposed section 334 on the taxability of income of the
+registered non-profit organisations. Is there any additional tax proposed to be levied on
+the income of registered non-profit organisations?
+
+Ans: No. Since most registered non-profit organisations apply 85% of their regular income for
+charitable or religious purposes, the taxable regular income in their cases shall be nil and there
+shall be no tax liability in their hands. However, if a registered non-profit organisation is not
+able to apply 85% of its regular income or accumulate the same, then regular income for such
+tax year as reduced by its application for charitable or religious purposes or accumulation
+thereof shall be its taxable regular income and chargeable to tax.
+
+
+
+
+                                                                                                  7
+QII. 12 What is the concept of specified income and does it propose to tax any new
+income of the registered non-profit organisations?
+
+Ans: No. No new income is proposed to be taxed. Present Act provides taxability of income
+scattered in different provisions such as section 13, section 115BBC and section 115BBI for
+different violations. The Bill seeks to bring all such provisions at the same place.
+
+QII.13 The provisions related to capital gains under section 11(1A) have been done away
+with? Can you explain the rationale behind that?
+
+Ans: Section 11(1A) of the present Income-tax Act provides that where a capital asset, being
+property held under trust wholly for charitable or religious purposes, is transferred and the
+whole or any part of the net consideration is utilised for acquiring another capital asset to be so
+held, then, the capital gain arising from the transfer shall be deemed to have been applied to
+charitable or religious purposes to the extent provided under the said section.
+
+Since the cost of acquisition of an asset for the objects of the registered non-profit organisation
+is considered as application of income, these provisions were redundant and therefore removed.
+
+QII.14 Provisions related to deemed application have also been done away with the Bill.
+Can you explain the reason for the same?
+
+Ans: There are two types of accumulations allowed to the registered non-profit organisations.
+First, as per the provisions of section 11(2) accumulation is allowed for a period of five tax
+years. Second, deemed application is allowed as per the provisions of Explanation 1(2) to
+section 11(1) for certain specified reasons (generally accumulation for one year on account of
+non-receipt of the income). The dual provisions for accumulation were creating difficulties in
+implementation and interpretation.
+
+The provisions related to deemed application under Explanation 1(2) to section 11(1) of the
+present Income-tax Act have been rationalised. This will help reducing litigation and ease the
+compliance. Accumulation under proposed section 342 of the Bill can be for any purpose stated
+in the prescribed Form.
+
+
+
+
+                                                                                                 8
+                                           III. Section 10 ‘Exemptions’
+Answers to Frequently Asked Questions
+
+QIII.1 Can you briefly explain the provisions related to exemptions provided in the
+present section 10 of the Income Tax Act, 1961?
+
+Ans: The provisions related to exemptions are contained in section 10 of the present Income-
+tax Act, 1961. There are around 140 clauses in said section 10, providing exemption to different
+persons and incomes. Section 10 evolved into its present shape with changes being made in
+different years to either provide exemption to a class of persons or income or their withdrawal,
+as the case may be.
+
+QIII.2 What are the difficulties in comprehending the existing provisions?
+
+Ans: Since section 10 of the Income Tax Act,1961 starts with an opening sentence and different
+exemptions provided therein are in the form of clauses, there were inherent limitations in the
+drafting. Clause 23C of section 10 contains 15 sub-clauses with numbers such as 10(23C)(i),
+(ii), (iii), (iiia), (iiiaa), (iiiaaa), (iiiaaaa), (iiiab), (iiiac), (iiiad), (iiiae), (iv), (v), (vi), and (via).
+Clause (23C) has 24 provisos. The 3rd proviso to clause (23C) has 7 Explanations and
+Explanation 2 to the 3rd proviso has again 8 provisos. Thus, there are provisos within clauses,
+Explanations to these provisos and again provisos to the Explanations making it difficulte to
+comprehend the provisions!
+
+QIII.3 What is the approach followed while considering the provisions of section 10
+presently in the Income Tax Act, 1961, writing the Bill?
+
+Ans: The following approach has been followed while redrafting the provisions:
+
+    i. All the provisions related to exemptions have been drafted in 6 different schedules
+         related to specific category of taxpayers as mentioned below.
+    ii. Redundant provisions have been removed.
+    iii. Income eligible for exemption, eligible persons and the applicable conditions have been
+         provided in different columns of the Table under each of these Schedules for the ease
+         of understanding.
+
+All the clauses of section 10 have been placed in 6 different schedules as follows:
+
+
+
+
+                                                                                                                9
+QIII.4 How many words have been reduced as a result of the exercise?
+
+Ans: As a result of the exercise, there has been a substantial reduction of the words from the
+approximately 30,000 words presently in Income Tax Act, 1961 to approximately 13,500
+words in the new Income Tax Bill, 2025, in so far as section 10 is concerned.
+
+Q.III.5 How are complexities proposed to be reduced by the Bill?
+
+Ans: Besides rationalisation of provisions, as per question III.10 and III.11 above, all 90
+Explanations and 134 provisos in the present section 10 have been done away with in the new
+Bill.
+
+Q.III.6 If the provisions related to exemptions are proposed to be taken to Schedules,
+then are there any provisions in the main body of the Bill?
+
+Ans: Yes, Section 11 of the proposed Bill contains certain provisions relating to exemptions
+while the rest are placed in the Schedules.
+
+QIII.7 What about the clauses of section 10 which do not find place in the Schedules?
+
+Ans: The clauses of section 10 of the Income Tax Act, 1961 which have been sun-set have not
+been included in the Schedules. However, certain exemptions which have been protected for
+past investments etc. have been protected in the Bill through the saving clause.
+
+
+
+
+                                                                                           10
+                                   IV Salary and House Property
+
+Answers to Frequently Asked Questions
+
+QIV.1 How has the simplification been done in the language and structure in salary and
+house property provisions in the new Bill to make it easier for the taxpayer?
+
+Ans: The simplification focuses on enhancing clarity and ensuring ease of compliance. The
+chapter on Salary and House Property has been specifically crafted for this purpose so that the
+taxpayer can on his own read those chapters and file his own Return of Income. While drafting
+these Chapters, areas/issues resulting in common grievances received from such category of
+taxpayers have been addressed.
+
+QIV.2 How has the Chapter been simplified and how many words have been reduced in
+the new chapter?
+
+Ans: The restructuring has significantly reduced the length of the chapter by eliminating
+redundant provisions while retaining all essential provisions. All existing provisos and
+explanations across various sections have been integrated into the main provisions for
+eliminating fragmentation, improving readability, and ensuring that related provisions are
+presented cohesively. The key changes are summarized in the table below:
+
+      The number of words has been reduced from 4401 to 3420 for the Part ‘Salaries’ and
+       from 1658 to 1177 for the Part ‘Income from House Property’
+      All provisions related to salary are brought under the part ‘Salaries’ so that the taxpayer
+       does not have to refer to separate chapters for filing of his Return of Income.
+      The language is simple to read, clarifying all crucial terminology like Perquisite, Profit
+       in lieu of salary, Standard Deduction etc and placing them in separate sections.
+      The legal and technical jargons have been minimized, and provisions like Perquisites
+       have been rewritten in a more structured and clear manner.
+      Some of the provisions have been taken to the Rules, and redundant and repetitive
+       provisions have been removed for better readability.
+
+QIV.3 Why have more changes not been carried out in the Chapter for ‘Salary’ and
+‘House Property’?
+
+Ans: The objective of this exercise was to simplify the existing framework rather than
+completely overhaul it. The proposed Bill maintains continuity while ensuring improved clarity
+and efficiency.
+
+Especially for the part on ‘Income from House Property’, it was noted that the provisions are
+already fairly simple and have been well received by the general public. The concepts like
+Annual Value of House Property, Self-occupied property etc. have been accepted well and
+
+
+                                                                                               11
+there is minimal dispute in interpreting the provisions and computation of this Head of income.
+Hence, minimal changes have been proposed in this part to ensure smooth transition and
+minimal confusion.
+
+
+
+
+                                                                                            12
+                           V.Profits and gains of business and profession
+
+Answers to Frequently Asked Questions
+
+QV.1. What are the major changes in the chapter Profits and gains of business and
+profession?
+
+Ans: Major changes brought about in the chapter Profits and Gains of Business and Profession
+are as follows:
+   i. The flow of the sections has been revised to improve coherence, create logical links,
+         and ensure a smoother progression.
+   ii. Similar sections, such as those on presumptive taxation for residents and non-residents,
+         have been merged to simplify the content, make it more concise, and consolidate all
+         related scenarios in one place.
+   iii. Provisions on similar topics, such as deductions on employee welfare, which were
+         previously scattered across the chapter, have been grouped together for easier
+         understanding and compliance.
+   iv. Formula-based explanations have been added to clarify complex concepts that were
+         previously difficult to understand, such as the definition of Written-down Value.
+   v. Provisions involving multiple scenarios, like those for determining Actual Cost, which
+         were previously presented as provisos or explanations, have been organized into a table
+         for better readability and comprehension.
+   vi. All provisos and explanations in the chapter have been converted into sub-sections to
+         eliminate ambiguity and ensure clarity.
+   vii. Redundant and already sun-set provisions have been removed.
+   viii. Provisions specific to a single business segment which are used by small sub set of
+         taxpayers have been moved to a new Schedule, while some procedural provisions have
+         been transferred to rules to reduce complexity and focus on the substance of the section.
+   ix. As a result, the total word count has been reduced by more than half, and the number
+         of sections has decreased from 65 to 41.
+
+QV.2 How and why the order of sections been changed in the chapter on PGBP?
+
+Ans: An effort has been made to group similar provisions together. For example, provisions
+related to general expenditure allowances (section 37) and deductions for actual payments
+(section 43B) have been placed along with the provisions of sections 40 and 40A. Similarly,
+provisions on scientific research expenditure, section 35AD (investment-linked deductions),
+skill development project expenditure, and agricultural extension project expenditure have
+been grouped together in the proposed sections 45,46 and 47.
+
+QV.3 What are the differences in provisions relating to, “Deductions related to employee
+welfare” in the Income Tax Bill 2025?
+
+
+
+                                                                                               13
+Ans: In the Income Tax Act, 1961, provisions related to expenses for contributions to Provident
+Fund, Gratuity Fund, Superannuation Fund, etc., were spread across various sections, such as
+40A (7), (9) and 36(1)(iv), (iva), (v), (va). To determine the allowability of these expenses, one
+had to refer to multiple provisions in addition to the charging sections. In the new tax bill, these
+provisions have been consolidated under a single section (proposed section 28), making them
+easier to understand and comply with. While the language has been simplified, there is no
+change in the tax incidence or deductibility.
+
+QV.4. What is the difference in provisions relating to, “Deduction for bad debt and
+provision for bad and doubtful debt” in the Income Tax Bill 2025?
+
+Ans: In the Income Tax Act, 1961, provisions related to the deduction for bad debts are
+contained in Section 36(1)(vii),(viia) and 36(2), which include 10 clauses/subsections, 6
+provisos, and 4 explanations. These provisions have now been consolidated into a separate
+section, with all provisos and explanations converted into sub-sections/clauses. Additionally,
+for banks and financial institutions, the allowance for bad debt provisions has been presented
+in a tabular format. These changes make the provision easier to understand and comply with.
+There is no change in the allowability or timing of allowability.
+
+QV.5 What is the difference between section 32 of IT Act,1961 and new section 33 of
+Income Tax Bill,2025, i.e. “Deduction for depreciation”?
+
+Ans: Section 32 of the Income Tax Act, 1961, which deals with depreciation, has become very
+complex over the past 63 years. It includes 6 clauses/subsections, 9 provisos, and 6
+explanations. In the new bill, all provisos and explanations have been converted into
+subsections/clauses, reducing the word count by 40%. These changes make the provision easier
+to understand and comply with. There has been no change in the rate of depreciation, eligibility,
+or method of allowance.
+
+QV.6    What are the changes in the definition of ‘Actual cost’ and ‘Written down Value’?
+
+Ans: The definitions of ‘Actual Cost’ and ‘Written-Down Value’ have been simplified by
+converting various explanations, provisos, and provisions into a tabular format. However, the
+current definitions of Actual Cost and Written-Down Value remain unchanged. Only redundant
+provisions (e.g., Goodwill adjustment for determining Written-Down Value) have been
+removed. The tabular format simplifies the understanding, improves clarity and reduces the
+potential for ambiguity.
+
+QV.7 What are the changes in the provisions relating to ‘Expenditure on Scientific
+Research’?
+Ans: The existing provision in Section 35 deals with the deductibility of expenses for scientific
+research. However, it has become complex and unnecessarily lengthy due to the addition of
+several provisos over time. In the Income Tax Bill 2025, the clarity of scientific research
+
+
+                                                                                                 14
+expenditure deductions has been improved by reorganizing the flow while maintaining the
+existing policy in the proposed section 45.
+
+QV.8 How is the section on ‘Capitalising the impact of foreign exchange fluctuation’ is
+different compared to section 43A of IT Act,1961?
+
+Ans: Section 43A of the current Act addresses capitalizing the impact of foreign exchange
+fluctuations when paying for a capital asset liability. The existing text is lengthy, complex, and
+contains repetition and redundancy. In the new Bill, while preserving the meaning of the
+section, it has been divided into four subsections, which are drafted in a more coordinated
+manner. The complexity has been reduced by introducing a formula for "Variation in liability,"
+further simplifying the understanding of the section.
+
+QV.9 Which provisions have been shifted to Schedule and the reasons for the same ?
+
+Ans: Provisions related to the Site Restoration Fund, as well as those for the Tea Development
+Account, Coffee Development Account, and Rubber Development Account, which apply only
+to specific trades and a small number of taxpayers, have been moved to the Schedules. The
+provisions related to the insurance business remain in the schedule as they were previously.
+
+QV.10 How have the provisions relating to deferred expenditure been changed under the
+Income Tax Bill ,2025?
+
+Ans: Provisions related to the amortization of expenses for telecommunications services,
+amalgamation, demerger, and voluntary retirement schemes have been presented in a tabular
+form. In the current text, the repetitive presentation has lengthened the text and also made it
+difficult to read. In the proposed Income Tax Bill 2025, an effort has been made to consolidate
+these expenses into one section while simplifying the language, without suggesting any policy
+changes.
+
+Provisions related to the amortization of preliminary expenses and expenses for prospecting
+minerals have been kept in a separate section.
+
+QV.11 What has changed in provisions relating to presumptive taxation of residents in
+the new Income Tax Bill ,2025?
+
+Ans: Under the current provisions of the Act, residents earning income from business (Section
+44AD), profession (Section 44ADA), and the business of plying, hiring, or leasing goods
+carriages (Section 44AE) are allowed a simplified taxation regime.
+In the proposed Income Tax Bill 2025, an effort has been made to consolidate all these identical
+presumptive taxation schemes into one section in tabular form, while adopting simplified
+language without suggesting any policy changes. Common eligibility conditions are listed as
+sub-sections below the table. This approach offers a clearer understanding of the presumptive
+
+
+                                                                                               15
+taxation regimes for residents, improves readability, and significantly shortens the text
+compared to the existing provisions.
+
+QV.12 What has changed in provisions relating to presumptive taxation of non-resident
+in New Income Tax bill?
+
+Ans: Under the current provisions of the Act, non-residents earning income from certain
+business activities are allowed a simplified taxation regime. Currently, these presumptive
+taxation schemes are spread across five sections.
+
+The Finance Bill 2025 has also proposed a similar scheme for non-residents providing services
+to domestic electronic goods manufacturing.
+
+In the proposed Income Tax Bill 2025, an effort has been made to consolidate these identical
+presumptive taxation schemes into one section in tabular form, while simplifying the language.
+The common eligibility conditions are listed as sub-sections below the table. This approach
+provides a clearer understanding of the presumptive taxation regimes for non-residents,
+improves readability, and significantly reduces the text length compared to the existing
+provisions.
+
+QV.13 What has changed in provisions relating to “Special provision for computing
+deductions in case of business reorganisation of co-operative banks” in the new Income
+Tax Bill, 2025?
+
+Ans: To simplify the section and eliminate repetitiveness, the formula for determining
+depreciation and other deductions for the predecessor co-operative bank and the successor co-
+operative bank/converted banking company has been merged. This ensures that the section is
+easier to understand, while the intent remains unchanged.
+
+QV.14 Whether the Bill has introduced new sections for revenue recognition of service
+contracts and inventory valuation?
+
+Ans: As has been noted elsewhere, the Bill has not made any major policy changes. No new
+sections have been introduced for revenue recognition of service contracts and inventory
+valuation. Section 43CB of the Income tax Act,1961 already prescribes the methodology for
+determining the profits and gains of business arising from service contract while section 145A
+prescribes the method for valuation of inventory. Clauses 57 and 277 of the Bill have been
+proposed as clauses for service contracts and inventory valuation corresponding to relevant
+section sunder the Income Tax Act,1961.
+
+QV.15 Is there any change in the new Bill as regards powers of the Assessing Officers to
+examine legitimacy of business expenditure?
+Ans: Section 37 of the Income Tax Act, 1961 prescribes conditions for allowing deduction
+of expenditure for the purpose of computing the income chargeable under the head "Profits and
+
+                                                                                           16
+gains of business or profession”. The Income tax Bill,2025 retains the scope of such provisions.
+Clause 34 of the Bill provides for similar general conditions for allowing deduction of
+expenditure for the purposes of business or profession being carried on by taxpayer.
+
+
+
+
+                                                                                             17
+                                        VI.     Clubbing provisions
+
+Answers to Frequently Asked Questions
+
+QVI.1 Is there any change in incidence of taxation or methodology of clubbing in the
+proposed Income Tax Bil, 2025?
+
+Ans: There are no changes in incidence of taxation, or methodology of clubbing of income in
+the new Bill.
+
+Q.VI.2 What has been changed in the provisions relating to ‘Clubbing of Income’?
+
+Ans: We have simplified the language and removed redundant provisions. Further, certainty
+has been brought in wherever it was possible. Formula has been introduced for ease of
+understanding and certainty in computation. For example
+
+ Section in existing Income Tax Act, 1961             Section in new Income Tax Bill 2025
+  Explanation 3 to s. 64 (1) in IT Act, 1961           Formula (sample):
+  Explanation 3. —For the purposes of clauses          A = B × (C/D)
+  (iv) and (vi), where the assets transferred
+  directly or indirectly by an individual to his       where, ––
+  spouse or son's wife (hereafter in this
+  Explanation referred to as "the transferee")         A = Income to be included in the hands of
+  are invested by the transferee,—                     individual for the tax year.
+   (i) in any business, such investment being
+  not in the nature of contribution of capital as      B = Income or interest or both, arising to the
+  a partner in a firm or, as the case may be, for      spouse or son’s wife from the business or
+  being admitted to the benefits of partnership        from the firm, as applicable during the tax
+  in a firm, that part of the income arising out       year.
+  of the business to the transferee in any
+  previous year, which bears the same                  C = Value of such assets invested, or
+  proportion to the income of the transferee           contributed as capital by the spouse or son’s
+  from the business as the value of the assets         wife as on the first day of the tax year.
+  aforesaid as on the first day of the previous
+  year bears to the total investment in the           D = Total investment or total capital
+  business by the transferee as on the said day       contribution, as the case may be, by the
+  ;                                                   spouse or son’s wife as on the day for which
+   (ii) in the nature of contribution of capital as   A is being computed.
+  a partner in a firm, that part of the interest
+  receivable by the transferee from the firm in
+  any previous year, which bears the same
+  proportion to the interest receivable by the
+  transferee from the firm as the value of
+  investment aforesaid as on the first day of the
+  previous year bears to the total investment by
+  way of capital contribution as a partner in the
+  firm as on the said day,
+
+
+                                                                                                   18
+shall be included in the total income of the
+individual in that previous year.
+
+
+
+
+                                               19
+            VII.    Deeming Provisions (S 68-69D of the Income Tax Act, 1961)
+
+Answers to Frequently Asked Questions
+
+Q.VII.1 Please highlight any major changes made through Income Tax Bill 2025 in
+deeming provisions? How has the change improved certainty?
+
+Ans: The provisions have been simplified. Section 69B has been split and merged with sections
+69 and 69A. In order to reduce disputes on rate of taxation and to provide certainty, the reference
+of the section specifying the rates of taxation has been provided in this Chapter. Towards
+reducing ambiguity, certainty has been provided as far as possible and rate of taxation has been
+specified in the chapter itself.
+
+QVII.2 Why has the name of section 68 ‘cash credits’ in the existing Income Tax Act been
+changed to ‘unexplained credits’ in the Bill?
+
+Ans: Section 68 of the Income Tax Act, 1961 is concerned with taxing the unexplained credits
+(rather than credits on account of cash) found in the books of accounts. In the corresponding
+section 102 of the new bill, the provisions of the section remain the same and there is only
+change in nomenclature. The unexplained credits will continue to be taxed under this section.
+
+
+
+
+                                                                                               20
+VIII. Set-off and Carry-forward of loss and unabsorbed depreciation, etc (S 70-80 of
+the Income Tax Act,1961)
+
+Answers to Frequently Asked Questions
+
+Q.VIII.1 Will the changes announced in the recent Budget speech pertaining to capping
+the carry forward loss in the amalgamation and business reorganisation provisions be
+included in the Income Tax Bill,2025?
+
+Ans: Yes, the proposed simplified Income Tax Bill has included such amended provisions in
+the Income Tax Act introduced by Budget 2025.
+
+Q.VIII.2. Can you give examples of removal of redundant sections and provisions in this
+Chapter?
+
+Ans: Yes. The examples are Sec. 71A and Sec 75.
+
+ Section in existing Income Tax Act, 1961                                Section in new Income
+                                                                         Tax Bill 2025
+ Transitional provisions for set off of loss under the head "Income             omitted
+ from house property".
+ 71A. Where in respect of the assessment year commencing on the
+ 1st day of April, 1993 or the 1st day of April, 1994, the net result of
+ the computation under the head "Income from house property" is a
+ loss, such loss in so far as it relates to interest on borrowed capital
+ referred to in clause (vi) of sub-section (1) of section 24 and to the
+ extent it has not been set off shall be carried forward and set off in
+ the assessment year commencing on the 1st day of April, 1995, and
+ the balance, if any, in the assessment year commencing on the 1st
+ day of April, 1996, against the income under any head.
+
+ Losses of firms.                                                             omitted
+ 75. Where the assessee is a firm, any loss in relation to the
+ assessment year commencing on or before the 1st day of April, 1992,
+ which could not be set off against any other income of the firm and
+ which had been apportioned to a partner of the firm but could not be
+ set off by such partner prior to the assessment year commencing on
+ the 1st day of April, 1993, then, such loss shall be allowed to be set
+ off against the income of the firm subject to the condition that the
+ partner continues in the said firm and to be carried forward for set
+ off under sections 70, 71, 72, 73, 74 and 74A.
+
+
+
+
+                                                                                            21
+                     IX.     Chapter VIA of the Income Tax Act, 1961
+Answers to Frequently Asked Questions
+
+QIX.1: What are the major snapshots of simplification with reference to Chapter VIA?
+
+Ans: In this Chapter, the existing provisos and explanations have been integrated into the main
+sections, improving clarity and coherence. Large and complex sections, such as Section 80C,
+have been streamlined, and detailed provisions have been moved to Schedule XV for better
+presentation and comprehension.
+
+Further, the provisions of Section 80-IA, 80-IB, 80-IAB, 80-IBA of the Income-tax Act, 1961
+would still be applicable for the undertakings or enterprises or projects which were already
+eligible to avail deductions as per these sections, which is ensured by incorporating necessary
+savings and repeals clause.
+
+QIX.2 What major restructuring has been done in Section 80C?
+
+Ans: The various sums eligible for deduction under Section 80C, which were previously spread
+throughout the section, have now been transformed into a simplified arrangement of eligible
+savings instruments in the proposed Schedule XV. The deduction limit remains clearly stated
+within the section, while the Schedule provides an easy-to-understand breakdown of eligible
+deductions. This simplifies the process for taxpayers, making it more transparent and
+organized. The changes have been made for better accessibility and comprehension.
+
+QIX.3 How has Section 80G been improved?
+
+Ans: Section 80G, which provides deductions for donations, has been revised to clearly
+segregate deductions based on the percentage of eligible deductions—100% and 50%, without
+making any policy change. This makes it easier for taxpayers to identify and claim the correct
+deduction amount.
+
+QIX.4 What changes have been made to Sections 80TTA and 80TTB?
+
+Ans: Previously, Sections 80TTA and 80TTB provided deductions on interest earned from
+savings accounts—80TTA for the general public and 80TTB for senior citizens. These sections
+have now been merged into a single proposed section, with clearly defined sub-sections. The
+eligibility criteria and deduction limits for different categories of assessees are now explicit,
+reducing the need to refer to multiple sections. This change enhances clarity and ease of use,
+particularly for senior citizens.
+
+
+
+
+                                                                                              22
+QIX.5 What improvements have been made to Section 80PA?
+Ans: The definition of eligible assessees under Section 80PA has been clarified, and the various
+eligibility criteria have been listed pointwise. This ensures that taxpayers can easily determine
+their eligibility without misinterpretation.
+
+QIX.6 How has Section 80RRB been simplified?
+
+Ans: The definition of eligible assessees who can claim deductions on royalties earned from
+patents has been made clearer. Additionally, the language has been modified to explain the
+computation of the deduction amount.
+
+QIX.7 The tax incentives under Chapter VIA of Income-tax Act, 1961 are not available
+in new tax regime. Has the same approach been adopted in proposed legislation?
+
+Ans: There are several provisions for which sunset date had earlier been outlined in Finance
+Act, 2016. Hence, the deduction for the same is available till such date. However, investment
+linked deductions have not been phased out. Hence, deduction under 80C, 80CCD, 80D, 80DD,
+80DDB, 80EEA, 80EEB, 80U, etc. find place in the new Income Tax Bill, 2025.
+
+QIX.8 How has section 80JJAA or provision relating to start-up or IFSC been
+addressed?
+
+Ans: These provisions continue to be in operation in the new Income Tax Bill, 2025.
+
+
+
+
+                                                                                              23
+                             X.      Advance tax, refund and Interest
+
+Answers to Frequently Asked Questions
+
+QX.1 Are there any changes in the provisions related to advance tax in the new Income
+Tax Bill, 2025?
+
+Ans: There are no policy changes. However, the provisions have been made easy to read with
+the following approach:
+
+   i.       The provisions related to the payment by the assessee on his own accord and as per the
+            order of the Assessing Officer have been segregated in two different sections to avoid
+            confusion.
+  ii.       Redundant provisions have been removed.
+ iii.       A formula has been provided for the computation of the advance tax liability
+
+
+QX.2 What are the major improvements in the provisions related to refunds and
+interest?
+
+Ans: Formulas have been provided for the computation of interest in different situations for
+example, the following formula has been provided for the computation of interest for defaults
+in furnishing of the return of income:
+   I= 1%* A*T
+   where,––
+   I = the interest payable;
+   A = the amount of tax on which interest is payable;
+   T = number of months comprised in the period commencing on the date immediately
+      following the starting date and ending on the end date.
+
+QX.3        What are other improvements in the provisions related to interest computation?
+
+Ans: The computation of interest is based on the period and rate of interest. For the computation
+of period, the most crucial factors are the start date and the end date and the same have been
+provided in the form of a Table as follows:
+
+  Sl. No        Circumstances     Starting date    Ending date     The amount of tax on which
+                                                                        interest is payable
+        A             B                C                D                        E
+
+
+
+
+                                                                                                24
+Thus, the taxpayers will have clarity about the start date and the end date for the computation
+of the period for which interest is payable in different scenarios and also the amount on which
+interest is payable.
+
+
+
+
+                                                                                            25
+                           XI.    Taxation in Special Rate cases
+
+
+Answers to Frequently Asked Questions
+
+QXI.1 I have opted for New tax regime under the Income-tax Act, 1961. Do I have to opt
+for it again in the new Income Tax Bill, 2025?
+
+
+Ans: No, all the rights and duties of taxpayers will continue to remain intact. In fact, the
+transition is expected to be seamless.
+
+QXI.2 Will new rules and forms be prescribed for the proposed Act, especially for opting
+for new tax regime or for claiming MAT?
+
+Ans: The proposed Bill has been tabled in the Parliament. As and when the law is enacted, the
+administrative measures for implementing them will be made operational, keeping in mind the
+convenience of tax payers and all stakeholders. The necessary details will be informed in due
+course.
+
+Q XI.3 Have the changes made in the recent budget been incorporated in the proposed
+Act, especially for individual taxpayers?
+
+Ans: Yes, the changes made in the slab rates and the related rebate have been incorporated in
+the proposed Bill.
+
+QXI.4 Are there any changes in the rates or conditions for taxation of special cases?
+
+Ans: No policy change has been proposed for such special rate provisions. Special rate regimes
+will work as before. However, there is substantial simplification through structural change in
+the Act which makes it taxpayer friendly.
+
+Q.63. Are there any changes in the provisions related to special rates for domestic taxpayers?
+Ans: There are no policy changes. However, the provisions have been made easy with the
+following approach:
+    a) New Tax Regime is now separate part that is dedicated for special rate of taxation for
+       individual taxpayers, domestic companies, cooperative societies and other eligible
+       taxpayers.
+    b) Redundant provisions have been removed.
+
+
+
+
+                                                                                           26
+c) Tables have been provided to do away with multiple explanations and provisos and also
+   for bringing together various special types of income that attract special rates under the
+   Act.
+
+
+
+
+                                                                                          27
+                                XII.    Double Taxation Relief
+
+Answers to Frequently Asked Questions
+
+QXII.1. Is there anything new in relation to interpretation of terms contained in a tax
+treaty?
+
+Ans. The Bill only clarifies India’s tax treaty position in relation to terms used in such treaty.
+The proposed section 159(7) of the Bill now mentions that:
+
+   i. If any term is used in the agreement and defined both in the agreement and the Bill, it
+        will have the meaning which is provided in the agreement;
+   ii. If any term is used in the agreement but has not been defined in it, but has a definition
+        in the Bill, it will have the meaning provided in the Bill or in any explanation which is
+        given to it by the Central Government, and the meaning will be applicable from the date
+        of the agreement;
+   iii. If any term is used in the agreement and is neither defined in the agreement nor in the
+        Bill, it will have the meaning given to it in any notification issued by the Central
+        Government, and such meaning will be applicable from the date of the agreement;
+   iv. If any term is used in the agreement and is not defined in the agreement or in the Bill
+        or in any notification, it will have the meaning given in any Act of the Central
+        Government relating to taxes, or in its absence, in any other law of the Central
+        Government, and such meaning will be applicable from the date of the agreement.
+
+This clarified position will reduce litigation and provide certainty to how any term is interpreted
+in a tax treaty situation. It reflects India’s present tax treaty position and is also aligned with
+international tax treaty practices in this regard.
+
+
+
+
+                                                                                                28
+                                 XIII.   Tonnage Tax
+
+Answers to Frequently Asked Questions
+
+QXIII.1       What changes are made in the proposed Act as regards the tonnage tax
+scheme?
+
+Ans: No substantive changes have been made in the tonnage tax scheme. The sections have
+however been rearranged and reorganized for better readability. The changes made in the
+Budget 2025 have also been suitably incorporated.
+
+
+
+
+                                                                                    29
+                                XIV. Tax Administration
+
+Answers to Frequently Asked Questions
+
+QXIV.1 Section 247 of the proposed bill equivalent to section 132 of the income tax Act
+provides for “competent authority”, “approving authority” etc. Why such change is
+proposed?
+
+Ans. The terms “Competent Authority” and “Approving Authority” have been defined in the
+proposed bill to avoid confusion in the mind of taxpayers and to clearly distinguish roles and
+functions of such authorities.
+
+QXIV.2. Why the definition of ‘computer system’ in section 261(e) of the proposed Act is
+different from the meaning as given in the Information Technology Act, 2000?
+
+Ans. Income tax Act and Information Technology Act are two different Acts and serve different
+purposes. The definition of computer system in the Income Tax Act includes computer
+network, computer resources, communication devices, digital or electronic data storage
+devices, virtual digital space etc.
+
+QXIV.3 While there are four parts in the Income Tax Act, 1961 under chapter XIII
+pertaining to Income tax authorities, there are only two parts in the proposed bill under
+the heading ‘tax administration’ under chapter XIV. What is the difference?
+
+Ans. In the proposed Bill, Part A & B is merged as they pertain to income tax Authorities and
+their jurisdiction. Further, Part C relating to powers and part D relating to disclosure of
+information have been merged in the proposed bill.
+
+
+
+
+                                                                                           30
+                     XV.     OFFENCES AND PROSECUTION
+
+Answers to Frequently Asked Questions
+
+QXV.1 Is there any increase in the punishment for any offence under the Bill?
+
+Ans: No.
+
+QXV.2 Has any new prosecution section been introduced for any of the provisions of the
+Bill?
+
+Ans: No.
+
+
+
+
+                                                                                   31
+                                XVI.    MISCELLANEOUS
+
+Answers to Frequently Asked Questions
+
+QXVI.1 If I have a pending refund under the Income-tax Act, 1961, will I get it after the
+new Act comes into force?
+
+Ans: Yes. All the rights and duties of taxpayers will continue to remain intact. The taxpayer
+will get his due refund in accordance with law.
+
+QXVI.2 Has the faceless approval or registration been removed?
+
+Ans: No.
+
+QXVI.3 Will new rules and forms be prescribed for the proposed Bill?
+
+Ans: The proposed Act has been laid before the Parliament. Subsequently, the administrative
+measures for implementing them will be made operational, in terms of the provisions in the
+new Income Tax Bill, 2025. The necessary details will be informed in due course.
+
+QXVI.4 Whether the Bill gives additional responsibilities to CBDT to frame tax
+administration rules, introduce compliance measures, and enforce digital tax monitoring
+systems without requiring legislative amendments?
+
+Ans: Section 295 of the Income tax Act, 1961 already requires CBDT to frame rules for
+carrying out the purposes of the Act. Without prejudice to the generality of such powers in sub-
+section 1, specific matters are also enumerated in sub-section 2 of the section. Clause 533 of
+the Income Tax Bill, 2025 replicates these responsibilities which are already conferred on
+CBDT.
+
+
+
+
+                                                                                             32
+                               XVII. Assessment Procedure
+
+Answers to Frequently Asked Questions
+
+QXVII.1 What are highlights of changes made in this Chapter?
+
+Ans. Section 153 of the Income-tax Act, 1961 which provides limitation for making
+assessment and reassessment etc. and section 155 of the said Act which deals with other
+amendments have been converted into tabular format for ease of readability.
+
+Section 144B of the said Act which lays down the procedure for making faceless assessment
+has been simplified and redrafted as proposed section 273 of the Bill.
+
+Sections 153A to 153D stand omitted in the Bill as these provisions do not apply to searches
+conducted after 1st April’ 2021.
+
+QXVII.2 What is the extent of reduction in terms of number of sections and number of
+words in this Chapter?
+
+Ans. Part A of the Chapter XVI in the new Income Tax Bill,2025 contains 24 sections as
+against 33 sections in the Income-tax Act, 1961. Further, number of words has also been
+reduced from 26,651 words to 13,160 words.
+
+QXVII.3 Please state policy changes made, if any, in this Chapter.
+
+Ans. No major policy changes have been made in this Chapter of the Bill. However, minor
+changes that are clarificatory/procedural in nature have been made in certain provisions, as
+under-
+       a. The following has been included as ‘information’ for the purposes of issue of notice
+          under section 148, for which the procedure prescribed under section 148A shall not
+          be required, -
+             i. Directions of Approving Panel
+            ii. Any finding or direction contained in an order passed by any authority,
+                  Tribunal or Court.
+       b. Provisions relating to various faceless schemes have been consolidated into one
+          proposed section, namely Section 532 which confers powers on the Central
+          Government to frame schemes for eliminating interface with the assessee.
+       c. Virtual digital asset has been included in the definition of ‘undisclosed income’ for
+          the purposes of search assessment.
+
+
+
+
+                                                                                            33
+                                  XVIII. Return of Income
+
+Answers to Frequently Asked Questions
+
+QXVIII.1      How will the simplification efforts in filing the return of income will help
+me as tax-payer?
+
+Ans. Chapter XV of the bill is divided into two parts: Part A (pertaining to PAN) and Part B
+(pertaining to the filing of return of income). The proposed section 263(1)(a) of the Bill lists
+the various categories of assessees who are required to file the returns of income. Under Section
+139 of the Income Tax Act, 1961, these assessees are scattered across various sub-sections. In
+the proposed Income Tax Bill, all assessees are consolidated in one place which makes it easier
+for each category of assessees to locate and fulfil their return filing obligations.
+
+QXVIII.2         Are exempt entities required to file return of income?
+
+Ans. Yes, exempt entities continue to be under obligation to file return of income if their total
+income before allowing exemption exceeds the maximum amount not chargeable to income
+tax.
+
+QXVIII.3         Have the due dates for filing returns of income changed?
+
+Ans. No, the due dates for filing returns of income for each category of assessees are still the
+same. They are now presented in a tabular format for easier understanding.
+
+QXVIII.4       Have the provisions for belated returns, revised returns, and updated
+returns changed?
+
+A. No, the provisions regarding belated returns, revised returns, and updated returns remain
+the same as in the Income Tax Act, 1961(including amendments proposed vide Finance Act,
+2025).
+
+
+
+
+                                                                                              34
+                           XIX.Tax Deduction and Collection at Source
+
+Answers to Frequently Asked Questions
+
+QXIX.1. What are highlights of simplification made in TDS/TCS provisions?
+
+Ans. In the existing Act, there are 43 sections which specify the various sums which are
+liable to TDS, depending on the status of the payer/payee, subject to applicable monetary limits.
+The sections provide the rate at which tax is liable to be deducted at source.
+
+In the proposed Bill, all these sections have been merged into one section. Section 393 of the
+proposed bill contains 3 Tables applicable to three broad categories of Payees- Residents, Non-
+residents and any person. The respective Table for each category in turn specifies the nature of
+income or sum, monetary threshold, payer/person and the applicable rate of TDS.
+
+In the table for Resident payees, similar nature of sums have been clubbed together, such as
+Commission, Rent, Interest, Income from Capital Market, etc. Further, a separate Table has
+been provided covering the cases/conditions where TDS is not required to be deducted.
+
+Similarly, the provisions relating to TCS have been merged and placed in one section. Section
+394 of the proposed bill contains one Table which specifies the nature of receipts, monetary
+threshold, collector and rate of TCS. The said section also lays down the conditions for no
+collection of TCS.
+
+Furthermore, provisions relating to the following matters, which were present through-out the
+Chapter in the existing Act, have been merged and placed together as independent sections in
+the proposed Bill,
+
+    a.    Certificates including Lower Deduction/Collection Certificates
+    b.    Compliance and reporting (filing of statements etc.)
+    c.    Consequences of failure to deduct or collect tax or pay the tax deducted or collected
+    d.    Processing of Statements
+
+
+QXIX.2. What is the extent of reduction in terms of number of sections and number of
+words?
+
+Ans. In the proposed Bill, provisions relating to TDS/TCS are contained in 13 sections as
+against 69 sections in the existing Income Tax Act,1961.
+
+The relevant parts of the Chapter XIX of the proposed Bill contains 14,675 words as against
+27,452 words in the existing Income Tax Act,1961.
+
+QXIX.3 How many rates of TDS /TCS have been prescribed in the proposed Bill?
+
+
+                                                                                              35
+Ans. Rates of TDS/TCS as well as thresholds are same as in Income Tax Act, 1961(being
+amended upto Finance Bill, 2025)
+
+
+
+
+                                                                                  36
+

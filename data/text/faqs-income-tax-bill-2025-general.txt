@@ -1,0 +1,419 @@
+                       I.    Broad scope of new Income-tax Bill
+
+Answers to Frequently Asked Questions
+
+Q I.1 When was the current Income-tax Act passed?
+
+Ans: The current Income-tax Act was enacted in 1961 and came into existence with effect
+from 01.04.1962. It has been amended nearly 65 times with more than 4000 amendments, year
+on year through Finance Acts, based on the evolving requirements of modifications in taxation
+policy.
+
+Q I.2 What concerns have been raised regarding the Income-tax Act 1961?
+
+Ans: Tax administrators, practitioners and taxpayers have acknowledged the contribution of
+the Income-tax Act, 1961 in overall tax governance and economy. However, over the time
+concerns have also been expressed over the accumulation of amendments, the intricate
+language, detailed provisions, redundancies and the heavy structure of the Income-tax Act.
+
+Q I.3 What are the reasons for regular amendments in the Income Tax Act as against
+other Acts?
+
+Ans: The Income-tax Act is dynamic legislation requiring regular updating and amendments
+to reflect the nation’s changing economic, social, and political realities. Criminal and other
+civil laws do not undergo such frequent updating and amendments whereas the Income-tax Act
+is regularly updated (on annual basis) to reflect the economic changes, fiscal policies, and
+government priorities. It, therefore, adapts to changes in the economy, business environments,
+inflation rates, income sources, and global financial trends. The government has introduced tax
+reforms to encourage specific sectors of the economy while balancing the same with
+requirements of revenue collection and widening/deepening of the tax base. Given its direct
+link to taxation and economic conditions, the Act needs to be more adaptable to reflect shifting
+economic policies, changing incomes, inflation, and emerging industries. The dynamic nature
+of the Income-tax Act provides it flexibility to accommodate new economic trends.
+
+Examples:
+   i. To promote exports, specific provisions such as 80HH, 80HHC were brought into the
+        statute. The same having served intended purpose have been since omitted or made
+        inapplicable after sun set date.
+   ii. To promote infrastructure development, section 80IA was brought into Income-tax Act,
+        1961.
+   iii. Sections 80HHE, 10A and 10AA were introduced for facilitating software exports.
+   iv. Section 80IAC is yet another example of encouraging the start-ups.
+Q I.4   Why has the Income-tax Act 1961, become bulky over time?
+
+Ans: The income tax law has become increasingly bulky over time, with its traditional style of
+drafting and numerous amendments. The complexity of language in the present Act is a
+product of different factors. To keep pace with certain legal pronouncements, explanations and
+provisos were often inserted to clarify legislative intent. Changing taxation priorities also led
+to introduction of additional text to an otherwise simple provision. Further, certain provisions
+remained in the statute, despite becoming non-operational, in view of pending claims/issues
+from earlier years.
+
+Q I.5   What simplification efforts have been made in the past?
+
+Ans: Attempts have been made in the past, including those in 2009 and 2019 for simplification
+of the Income tax Act. The recommendations from these efforts, as regards policy, have been
+considered in the amendments carried out from time to time.
+
+Q I.6 Has the present simplification exercise considered international experience of
+other countries who have undertaken similar exercise?
+
+Ans: Simplification of tax laws has received attention globally. Countries have undertaken
+similar exercises to enhance clarity and compliance in their taxation laws.
+
+In the UK, the process was carried out during the period 1994 to 2010 for simplifying the
+language. Before simplification, the UK Income and Corporation Tax Act, 1988 comprised
+960 pages. However, after simplification, it was divided into five separate Acts, with their page
+counts increased, resulting in a more segmented but overall larger body of tax law.
+
+Similarly, Australia underwent a similar process during 1994 to 1997, where simplification of
+language also resulted in a longer tax code.
+
+These international experiences emphasize the delicate balance between simplification and the
+need for clear, unambiguous legal language. Drawing from these lessons, effort has been made
+to focus not just on linguistic simplification but also on structural rationalization.
+
+Q I.7   What is the scope of exercise undertaken for the new Income-tax Bill?
+
+Ans: The Hon’ble Finance Minister in the budget speech in July 2024 stated that the purpose
+of the comprehensive review of the Income-tax Act, 1961, is to make the Act “concise, lucid,
+easy to read and understand”.
+Q I.8 What ground rules are set for making the existing provisions concise, lucid, easy
+to read and understand?
+
+Ans: Following ground rules have been considered for simplifying the existing provisions:
+
+   i. The Bill proposes to eliminate redundant provisions, reducing its length by nearly half.
+
+   ii. The drafting style of the new Bill is straightforward and clear, making the provisions
+       easier to understand by incorporating more than 57 tables compared to 18 tables in the
+       Income-tax Act, 1961. Sub-sections and clauses have been used, instead of relying on
+       provisos and explanations for exceptions and carve-outs. This minimises cross-
+       references and conflict by aggregating all applicable provisions related to a single
+       scenario in one place.
+
+   iii. All provisos (about 1200) and explanations (about 900) have been removed.
+
+   iv. The 1961 Act contains numerous cross-references to sections, sub-sections, clauses,
+       sub-clauses, items, and sub-items, making the provisions challenging to interpret. The
+       new Bill adopts a simplified reference system, allowing provisions to be cited by simply
+       mentioning the section. For instance, section 133 (1)(b)(ii) in the new bill would
+       indicate sub-clause (ii) of clause (b) of sub-section (1) of section 133 in the existing
+       Act. This change makes the Act's language easier to understand.
+
+   v. A significant aspect of the Bill is the elimination of the concepts of ‘previous year’ and
+      ‘assessment year’. Prior to 1989, the concept of ‘previous year’ and ‘assessment year’
+      had been brought because the taxpayers could have different twelve-month previous
+      years for each source of income. From 1st April 1989, previous year was aligned to a
+      financial year in all cases. However, ‘assessment year’ continued to be used for various
+      proceedings under the Act. Thus, a taxpayer was required to track two different periods,
+      i.e., the ‘previous year’ as well as the ‘assessment year’. This presented difficulties in
+      complying to the provisions of the Act especially for a new taxpayer who had to keep
+      track of ‘previous year’, ‘assessment year’ as well as ‘financial year’.
+
+Q I.9 Whether any consultations have been done with stakeholders, while drafting new
+bill?
+
+Ans: A comprehensive consultative process was undertaken for the simplification exercise.
+A total of 20,976 online suggestions for simplification and removal of redundancies were
+received, analysed and relevant suggestions were categorized into policy-related, language
+simplification, removal of redundant or obsolete provisions, etc. Meetings with industry and
+professional associations were held and field-level brainstorming sessions were held within the
+Income Tax Department, towards this exercise.
+At the international level, consultations were held with some of the taxation authorities that
+had undertaken similar exercise in the recent past, viz. the Australian Tax Office and Treasury,
+and the UK’s Office of Tax Simplification.
+
+The documents prepared in 2009 and 2019, were also referred, while undertaking the exercise.
+International and national guidance material such as ‘Drafting Guide for Simplification of
+Laws’ issued by Legislative Department, Ministry of Law and Justice, was studied for
+simplification of legal language.
+
+
+Q I.10 What processes were followed in conducting the simplification exercise?
+
+Ans: In addition to the stakeholder exercise mentioned in Q I.9, suggestions were sought
+from taxpayers, industry and professional associations, and field level officers of the
+Department. A committee of around 150 officers of the Department was actively involved in
+the entire exercise. The Committee prepared the draft text of various chapters, which was
+meticulously vetted by the Legislative Department of Ministry of Law and Justice, and
+consolidated in the form of the final Bill, after necessary approvals.
+
+More than 60,000 man-hours were dedicated by the team for finalising the new Bill.
+
+Q I.11 How has the readability improved in the new Bill?
+
+Ans: The readability of tax law has been improved by using simpler language, as against
+traditional legal language. Where multiple situations are covered, the sections have been made
+enumerative. Wherever feasible, extensive use of table formats has been made. TDS provisions
+have been presented in a tabular form. Certain provisions such as section 10, which contained
+about 150 clauses has been placed in Schedules and presented in the form of tables.
+
+As a result of the comprehensive exercise, the size of the new Bill has reduced by about half
+on one hand and one the other, the provisions have been consolidated and presented in a user-
+friendly format.
+
+
+QI.12 What is the treatment of numerous ‘provisos’ and ‘explanations’ and procedural
+aspects in the existing Act?
+
+Ans: Provisos (more than 1200) and Explanations (more than 900) have been removed, with
+their simplified content placed as sub-sections or clauses. Wherever feasible, procedural
+aspects and specific details are proposed to be provided by way of Rules.
+
+QI.13 Have the redundant provisions of the Income-tax Act 1961 been removed in the
+new Income-tax Bill?
+
+Ans: Yes. Certain provisions became redundant due to numerous amendments and/or policy
+changes over the years. This resulted in large number of such provisions in the Act. For
+example, deduction under section 10A, which was a special provision for newly established
+industrial undertakings in the free trade zones, is no longer available from the Assessment Year
+2012-13, onwards. Such obsolete provisions have been removed from the text of the Bill.
+However, provisions applicable to earlier Assessment Years shall be governed by Repeal and
+Savings provisions.
+
+QI.14 What other steps have been taken to enhance clarity in the new Bill?
+
+Ans: In addition to removal of ‘provisos’, ‘explanation’ and redundant provisions, formulae,
+tables, and structures have been used to enhance clarity in the new bill. To the extent possible,
+provisions involving the same issues, which were present in different chapters in the current
+Act, have now been consolidated. Redundancy has been removed and definitions at multiple
+places have been consolidated.
+
+In case of provisions relating to Non-Profit organisations (NPOs), the entire text related to
+NPOs has been consolidated and structured into 7 sub-parts which contain provisions related
+to Registration, Income, Commercial activities, Compliances, Violations, Registrations for the
+purposes of eligibility of donations and Interpretations.
+
+QI.15 How have principles of Tax Certainty followed in drafting of the new Income Tax
+Bill?
+
+Ans: The new Income-tax Bill is approximately half the length of the existing Income-tax Act
+1961, with significant re-organisation of provisions in different sections. While undertaking
+simplification exercise, a conscious attempt has been made to minimise the scope of litigation
+and fresh interpretations. For this purpose:
+
+      a.   Key words/phrases, especially where courts have given rulings, have been retained
+           with minimal modifications.
+      b.   Language has been simplified by use of short sentences to the extent possible.
+      c.   Sections have been translated into row or sub-rows in tables, reducing the number
+           of words and bringing clarity.
+      d.   Provisions have been made clear to minimize scope for multiple interpretations. The
+           provisos and explanations have been removed and simplified content has been
+           placed as sub-sections and clauses.
+      e.   Provisions related to international taxation have been dealt with, broadly, to ensure
+           tax certainty.
+      f.   NGO chapter has been made more comprehensive with use of plain language.
+      g.   Exemption sections, for example section 10 in the present Act, has been made
+           simpler through tables and placing large number of provisions in Schedules.
+      h.   Formulae and tables have been used to enhance clarity, wherever feasible.
+      i.   Provisions involving same issues and definitions, which were present in different
+           chapters in the existing Act have been consolidated, to the extent possible.
+QI.16 How does the new Bill compare to the Income-tax Act, 1961 in terms of numbers
+of Chapters, sections and words?
+
+Ans: There has been a significant reduction in the text of new Bill, in comparison to the existing
+Income Tax Act, as summarised below.
+
+         Particulars      Income-tax Act, 1961           The proposed Act
+         Chapters                   47                           23
+         Sections                  819*                         536
+         Words                  5.12 lakhs                   2.60 lakhs
+       * Effective Sections
+Besides about 1200 Provisos and 900 Explanations have been removed.
+
+QI.17 What is the basis of the statement that the Income tax Act, 1961 consists of 819
+sections, while the text of the Act only mentions sections till 298?
+
+Ans: During the course of numerous amendments to the Income tax Act, 1961, several policy
+decisions were incorporated as separate provisions. Many a times such provisions were
+connected to already existing sections and accordingly the new sections were numbered in
+continuation to the existing sections. For example, several provisions relating to tax on special
+cases were inserted as sections starting with 115 series viz 115 AC,115AD, 115JB, 115VP etc.
+As a result of such insertions, effective sections existing in the Income tax Act, 1961 are 819.
+
+Q I.18 Why does the new Bill still contain 536 sections and 2.6 lakh words?
+
+Ans: While the existing Income-tax Act contains 298 numbered sections, effective sections
+in the current Act are 819. This is because other than numeric section numbers there are large
+number of sections with alpha-numeric codes such as 115A to 115WM (117 sections) and so
+on. The Income-tax Act not only deals with levy of tax but it is a comprehensive document,
+which encompasses all aspects of tax administration. It also includes other aspects such as:
+
+(a) laying down the administrative framework, assigning roles and responsibilities for assessing
+officers, taxpayers, tax deductors, and professionals etc;
+
+(b) setting out the framework for income determination, timelines, appellate procedures,
+enforcement, assessments, and penalties; and
+
+(c) taking into account the impact of interpretations on economic policy, affecting both
+domestic and international investments.
+
+The new Bill proposes 536 sections to meet the above-mentioned requirements. Further,
+several sections in the new Bill exist primarily to honour the commitments under the existing
+tax regime, including provisions relating to Minimum Alternate Tax (MAT), various
+deductions and exemptions, etc. These provisions will remain in force until their respective
+sunset clauses take effect. Therefore, these are required to be part of new Bill to ensure a smooth
+transition, while maintaining legal and policy continuity.
+
+
+QI.19 Whether the simplification exercise has led to no ‘material’ change?
+
+Ans:   The simplification exercise, inter-alia, encompasses following aspects:
+
+    i. Redundant provisions of the Income tax Act have been removed;
+    ii. Sub-sections and clauses have been used, instead of relying on provisos and
+         explanations for exceptions and carve-outs;
+    iii. Simplified system for cross referencing of sections, sub-sections, clauses etc has been
+         used;
+    iv. Extensive use of tables, formulae for enhanced clarity;
+    v. Consolidation of provisions scattered across various sections/ Chapters relating to a
+         single issue; etc
+
+Since there have been regular amendments to the Income Tax Act, 1961 including amendments
+proposed in Finance Bill, 2025, the Act stands updated from policy perspective. All
+amendments proposed upto Finance Bill 2025 have been duly incorporated in the new Income
+tax bill 2025. Therefore, while no major policy related changes have been made in the Bill, the
+above aspects have led to proposed ‘material’ changes in the existing law.
+
+
+QI.20 Whether any mapping of old and new sections will be available?
+
+Ans: Section-wise mapping will be made available on the official website of the Income Tax
+Department.
+
+QI.21 How has 'previous year' and 'assessment year' been dealt with in the new bill?
+
+Ans: The concept of ‘tax year’ has been introduced replacing ‘previous year’ and
+‘assessment year’. The timelines and computation in the Bill are now with reference to the
+financial year for which the income is liable to be taxed. It is expected that the use of ‘tax year’
+will make the new Bill easier to comprehend. Further, many of the comparable tax jurisdictions
+in the world are using one single term, for purpose of denoting the unit period of taxation. ‘Tax
+year’ is commonly used in many countries.
+
+With the introduction of ‘tax year’, broadly the following principles have been adopted:
+
+   i. ‘Tax Year’: Unit period of taxation. This term shall be referred in respect of all
+       transactions and income for that period.
+   ii. ‘Financial Year’: For purposes of timelines for compliance and for procedural issues.
+QI.22 How have the provisions of TDS and TCS been simplified in the new bill?
+
+Ans: TDS and TCS provisions have been made easier to comprehend by providing tables.
+There are separate tables for payment to residents and non-residents, and where no deduction
+at source is required. For example, the proposed provisions relating to TDS on rent are shown
+below:
+
+  2.     Rent
+  S. No. Nature of Income or sum                  Payer                      Rate
+                                                                        Threshold limit
+  (i)      Income by way of rent           Person other than     Rate: 2%
+                                           specified person      Threshold limit:
+                                                                 Rs. 50,000 for a month or
+                                                                 part of a month
+
+(Reference can be made to Table in proposed section 393 of the Bill)
+
+QI.23 What has been done to simplify the provisions related to Non-Profit
+Organizations?
+
+Ans: The provisions related to Non-Profit Organizations were present at different places in
+the existing Act, in section 11, section 12, section 12A, section 12AA, section 12AB, section
+13, section 115BBC, section 115BBI, section 115TD, section 115TE, section 115TF. The
+provisions related to approval are under the first and second proviso to section 80G (5). These
+have been simplified and consolidated into one chapter. All the provisions related to registered
+Non-Profit Organisations have now been arranged in Part B of Chapter XVII titled “B.––
+Special Provisions for Registered Non-Profit Organisation” in the new Bill.
+QI.24 What simplification has been carried out for salaried employees in the new bill?
+
+Ans: All the provisions pertaining to salary have been consolidated at one place for ease of
+understanding so that the taxpayer does not have to refer to separate chapters for filing his
+return of income. The deductions which were earlier allowed under section 10 of the Income
+Tax Act,1961, like gratuity, leave encashment, commutation of pension, compensation on VRS
+and retrenchment compensation, are now part of the salary chapter itself. Some of the
+allowances like HRA are now provided in Schedule II of the new Bill that finds reference in
+the provisions relating to salary. The objective was to improve readability by way of providing
+tables and formulas.
+
+While the chargeability of all the perquisites has been retained in the Act, their valuation,
+conditions and exceptions have been shifted to Rules as they do not affect every taxpayer.
+Similarly, redundant and repetitive provisions have also been removed for better readability.
+QI.25 What changes are being made to exemptions for specific incomes and persons?
+
+Ans: Provisions relating to exemptions for specific incomes and persons are being moved to
+separate schedules for easier reference and simpler compliance as follows:
+
+
+  Schedule II (16 rows)               •Incomes exempt such as agricultural income
+
+
+                                      •Certain persons eligible for exemption on certain
+ Schedule III (39 rows)                income such as partners of firms and HUF etc
+
+ Schedule IV (14 rows)                •Exemptions to non-residents
+
+                                      •Exemption to Business trusts, Sovereign Wealth
+   Schedule V (8 rows)                 Funds etc
+
+ Schedule VI (12 rows)                •Exemptions to IFSC units
+
+
+   Schedule VII (48 rows)             •Persons exempt from tax
+
+An example of the Schedules is given below:
+
+       Sl. No.      Eligible persons                     Conditions
+       A                    B                                 C
+       1.      Any regimental Fund or Such Fund is for the welfare of the past
+               non-public Fund established and present members of the armed forces
+               by the armed forces of the or their dependants.
+               Union
+        (References to Schedules has been made in section 11 of the Bill)
+
+QI.26 What are the next steps after the new Bill is introduced?
+
+Ans:    Stage 1: Bill is passed by the Parliament and becomes an Act
+        Stage 2: Operational and delegated legislation framework
+           i. Notification of new Rules and Forms.
+           ii. Simultaneous exercise of software development to set up the systems and
+               processes for various administrative and quasi-judicial functions.
+
+QI.27 How will the old and new provisions co-exist?
+
+Ans: Various facets of compliance for the respective years have been mentioned in the
+Repeals and Savings clause in the Bill, which will safeguard all rights and liabilities accrued
+under the old law.
+QI.28 What are the changes on rates and other policy in the new bill?
+
+Ans: There are no changes related to rates. Since there have been regular amendments to the
+Income Tax Act, 1961 including amendments proposed in Finance Bill, 2025, the Act stands
+updated from policy perspective. All amendments proposed upto Finance Bill 2025 have been
+duly incorporated in the new Income tax bill 2025. Therefore, while no major policy related
+changes have been made in the Bill, the above aspects have led to proposed ‘material’ changes
+in the existing law.
+
+QI.29 Why is it that on comparison of new Income Tax Bill and earlier provisions, it is
+found that in some cases viz ‘virtual digital assets’, etc there are certain changes?
+
+Ans: The Income Tax Bill 2025 also contains all amendments proposed in Finance Bill 2025.
+Therefore, the users are advised to compare the provisions of the Income Tax Act, 1961, as
+updated with proposed amendments in Finance bill 2025, while reading the Income Tax Bill,
+2025. There is, therefore, no change in the scope of ‘virtual digital asset’ under the Income Tax
+Bill, 2025. The definition under the Bill incorporates the amendment already proposed under
+the Finance Bill, 2025.
+
+QI.30 Which Chapters of the Income tax Act, 1961 have seen large reduction of words,
+as a result of the simplification exercise?
+
+Ans: As noted above, the total words in the new Income Tax Bill, 2025 are around 2.6 lakhs,
+as against 5.12 lakh words in the Income Tax Act, 1961. Some of the Chapters where
+substantial reduction of words have been achieved are as given below:
+
+          Income Tax Act, 1961             Income Tax Bill, 2025      Reduction of words
+          Topic          Words                 Topic     Words
+    Exemption             30000           Exemption       13500               16500
+    related provision                     related
+                                          provisions
+    TDS/TCS                  27453        TDS/TCS         14606               12847
+    Non-profit               12800        Non-profit       7600               5200
+    Organization                          Organization
+

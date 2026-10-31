@@ -1,0 +1,137 @@
+                Form Mapping Guide – Income-tax Act, 1961 to Income-tax Act, 2025
+
+With the implementation of the Income Tax Act, 2025 (ITA 2025), effective 1st April 2026, forms prescribed
+under the Income Tax Act, 1961 (ITA 1961) have been renumbered and restructured under the new
+legislative framework.
+
+For ease of reference, a mapping of the ITA 2025 forms available for filing on the e-Filing portal from 1
+April 2026 to their corresponding ITA 1961 forms is provided below. This table facilitates easy
+identification of the equivalent forms under the Income-tax Act, 2025.
+
+On the e-Filing portal, forms are organised under the following tabs:
+
+“Forms as per Income Tax Act 2025” – Forms available for filing under the Income-tax Act, 2025.
+“Forms as per Income Tax Act 1961” – Forms available for filing under the Income-tax Act, 1961.
+ “Forms as per Other Acts” – Forms prescribed under other applicable legislations, available for filing.
+
+
+
+
+                                                                                                           1
+Please select the appropriate tab based on the applicable Act.
+
+       Form No.               Form No.                             Form Description
+      (ITA, 2025)            (ITA, 1961)
+
+ 1                     3BB                     Monthly statement to be furnished by a stock exchange in
+                                               respect of transactions in which client codes have been
+                                               modified after registering in the system for the month
+                                               of…….
+ 2                     5B                      Application for notification of a zero coupon bond under
+                                               section 2(112) of the Act
+ 17                    3CF                     Application for approval of a company under section
+                                               45(3)(b) and of a research association, university, college
+                                               or other institution under section 45(4)(b) of the Income-
+                                               tax Act, 2025
+ 18                    3CN                     Application for notification of affordable housing project
+                                               as specified business under section 46 of the Act
+ 19                    3CS                     Application for notification of a semiconductor wafer
+                                               fabrication manufacturing unit as specified business under
+                                               section 46 of the Act
+ 20                    3C-O                    Application for approval of agricultural extension project
+                                               under section 47(1)(a) of the Act
+ 41                    10F                     Information to be provided under section 159(8)
+ 42                    10FA                    Application for Certificate of residence for the purposes of
+                                               an agreement under section 159(1) and 159(2)
+ 50                    3CEC                    Application for a pre-filing consultation
+ 51                    3CED, 3CEDA             Application for an Advance Pricing Agreement (APA)
+
+ 52                    3CEF                    Annual Compliance Report on Advance Pricing
+                                               Agreement
+ 54                    New Form                Application for Renewal of an Advance Pricing
+                                               Agreement (APA)
+ 55                    34F                     Form of application for an assessee, resident in India,
+                                               seeking to invoke mutual agreement procedure provided
+                                               for in agreements with other countries or specified
+                                               territories
+ 80                    65                      Application for *exercising/renewing option for the
+                                               tonnage tax scheme under * section 231(1) or 231(10) of
+                                               the Act
+ 104                   10A                     Application for provisional registration or provisional
+                                               approval
+ 105                   10AB                    Application for registration of non-profit organisation
+                                               under section 332 or approval for deduction under section
+                                               133(1)(b)(ii)
+
+
+
+                                                                                                          2
+    Form No.               Form No.                        Form Description
+   (ITA, 2025)            (ITA, 1961)
+
+106                 10AC                Order for provisional registration u/s 332 or provisional
+                                        approval u/s 354 Rejection of application
+113                 10BD                Statement or Correction Statement to be filed by Donee
+                                        under section 354(1)
+114                 10BE                Certificate of donation under section- 354(1)(g)
+121                 15G, 15H            Declaration under section 393(6) for receipt of certain
+                                        incomes without deduction of tax
+127                 27C.                Declaration under section 394(2) of the Act to be made by
+                                        a buyer for obtaining goods without collection of tax
+141                 26QB, 26QC, 26QD,   Challan-cum-statement of deduction of tax under section
+                    26QE                393(1) [Table Sl. No. 2(i), 3(i), 6(ii) & 8(vi)]
+145                 15CA.               Information to be furnished for payments to a non-resident
+                                        not being a company, or to a foreign company
+146                 15CB.               Certificate of an accountant for payments to a non-
+                                        resident, not being a company or to a foreign company
+152                 28A                 Intimation to the Assessing Officer under section 407(8)
+                                        regarding the notice of demand under section 289 of the
+                                        Income -tax Act, 2025 for payment of advance tax under
+                                        section 407(2)/407(5) of the Act
+174                 10BBA               Application for notification under Schedule V [Table: Sl.
+                                        No.7. Note 5(a)(iii)(D)] (Pension Fund)
+180                 9                   Application for grant of approval to a fund referred to in
+                                        Schedule VII [Table: Sl. No. 2]
+186                 40C                 Application for recognition of a Recognised provident
+                                        fund
+187                 42, 43, 44          Appeal against refusal to grant recognition/approval or
+                                        withdrawal of recognition/approval from a Provident
+                                        Fund, Superannuation Fund, or Gratuity Fund.
+188                 New Form            Application       for Approval    for   Superannuation
+                                        Fund/Gratuity Fund
+189                 59                  Guidelines for approval under Schedule XV (1)(z)(i) and
+                                        (1)(z)(ii) of the Act
+190                 59A                 Application for approval of mutual funds investing in the
+                                        eligible issue of public companies under section Schedule
+                                        XV: Paragraph 1(z)(ii) of the Act
+Form I (Sovereign   Form I (SWF)        Application for notification under Schedule V [Table: Sl.
+Wealth Fund)                            No.7.Note 5(a)(ii)(G)] (Sovereign Wealth Fund)
+Form 1 (Ship        Form 1-New(Ship     Statement-cum-Declaration to be furnished by a Unit
+leasing business)   Leasing business)   engaged in the business of leasing of a ship of an
+
+
+                                                                                                    3
+    Form No.             Form No.                              Form Description
+   (ITA, 2025)          (ITA, 1961)
+
+                    (Notification No.      International Financial Services Centre (payee) to the
+                    57/2023)               Lessee (payer)
+Form 1              Form 1-New             Statement-cum-declaration to be furnished by a Unit of
+(Declaration by     (Declaration by Unit   International Financial Services Centre (‘payee’) to the
+Unit of IFSC)       of IFSC)               ‘payer’
+                    (Notification No.
+                    28/2024)
+Form 1 (Dividend Form 1 {Dividend          Statement-cum-Declaration to be furnished by a Unit
+exempt under        exempt u/s 10(34B)}    engaged in the business of leasing of aircraft (payee)
+Schedule VI         (Notification No.      located in International Financial Services Centre to a
+(Table: S. No. 11)) 52/2023)               Unit of International Financial Services Centre (payer)
+Form 1 (Aircraft    Form 1 (Aircraft       Statement-cum-Declaration to be furnished by a unit
+Leasing Business) Leasing Business)        engaged in the business of leasing of aircraft located in
+                    (Notification No.      International Financial Services Centre to the Lessee
+                    65/2022)
+
+
+
+
+                                                                                                       4
+

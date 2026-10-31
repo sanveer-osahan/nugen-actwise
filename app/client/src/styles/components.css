@@ -1,0 +1,168 @@
+/* Base elements and components. See STYLE_GUIDE.md. */
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+  transition: background-color var(--duration) var(--ease), color var(--duration) var(--ease);
+}
+
+/* Type */
+.display, h1, h2 { font-family: var(--font-display); font-weight: 400; margin: 0; letter-spacing: 0.01em; }
+.display { font-size: 3.5rem; line-height: 1; }
+h1 { font-size: 2.75rem; line-height: 1; }
+h2 { font-size: 2rem; line-height: 1.1; }
+.text-muted { color: var(--text-muted); }
+.text-small { font-size: 0.875rem; line-height: 1.25rem; }
+code, .mono { font-family: var(--font-mono); font-size: 0.875rem; }
+a, .link {
+  color: var(--green-strong);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+a:hover, .link:hover { text-decoration-thickness: 2px; }
+
+/* Buttons */
+@keyframes button-pop {
+  0% { transform: scale(0.98); }
+  40% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-btn);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  animation: button-pop 0.25s ease-out;
+  transition-property: color, background-color, border-color, box-shadow, transform;
+  transition-duration: var(--duration);
+  transition-timing-function: var(--ease);
+}
+.btn:hover:not(:disabled) {
+  transform: translate(-3px, -3px);
+  box-shadow: var(--shadow-sm);
+}
+.btn:active:hover:not(:disabled) {
+  animation: none;
+  transform: scale(0.95);
+  box-shadow: none;
+}
+.btn:focus-visible { outline: 2px solid var(--green-strong); outline-offset: 2px; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; box-shadow: none; }
+
+.btn-primary { background: var(--green); color: var(--green-text); }
+.btn-primary:hover:not(:disabled) { background: var(--green-hover); }
+
+.btn-ink { background: var(--ink); color: var(--ink-text); border-color: var(--ink); }
+.btn-ink:hover:not(:disabled) { background: var(--green); color: var(--green-text); border-color: var(--border); }
+
+.btn-outline { background: transparent; color: var(--text); border-color: var(--text); box-shadow: none; }
+.btn-outline:hover:not(:disabled) { background: var(--text); color: var(--bg); }
+
+.btn-ghost { background: transparent; color: var(--text); border-color: transparent; box-shadow: none; }
+.btn-ghost:hover:not(:disabled) { background: var(--green-soft); transform: none; box-shadow: none; }
+
+.btn-sm { padding: 0.5rem 1rem; font-size: 0.875rem; line-height: 1.25rem; }
+.btn-lg { padding: 1rem 2rem; font-size: 1.125rem; line-height: 1.75rem; }
+.btn-block { width: 100%; }
+.btn-wide { width: 18rem; }
+.btn-icon { padding: 0.625rem; }
+
+/* Inputs */
+.field { display: flex; flex-direction: column; gap: 6px; font-size: 0.875rem; font-weight: 600; }
+.input {
+  height: 3rem;
+  padding: 0 1.25rem;
+  border: 1px solid var(--input-border);
+  border-radius: var(--radius-btn);
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-weight: 400;
+  font-size: 1rem;
+  transition: border-color var(--duration) var(--ease), box-shadow var(--duration) var(--ease);
+}
+.input:focus { outline: none; border-color: var(--border); box-shadow: 0 0 0 2px var(--green-strong); }
+.input[aria-invalid='true'] { border-color: var(--error-text); }
+
+/* Card, badge, message */
+.card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-box);
+  box-shadow: var(--shadow-xl);
+  padding: 2rem;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-badge);
+  background: var(--green);
+  color: var(--green-text);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+.message-error {
+  margin: 0;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-field);
+  background: var(--error-bg);
+  color: var(--error-text);
+  font-size: 0.875rem;
+}
+
+/* Accent fills (CodeFast accents). Text on them is always --text. */
+.badge-orange { background: var(--orange); color: var(--text); }
+.badge-pink { background: var(--pink); color: var(--text); }
+
+/* Marker: a flat color bar behind the lower half of a word, as on CodeFast. */
+.mark {
+  --mark: var(--green);
+  padding: 0 0.04em;
+  margin: 0 -0.04em;
+  background: linear-gradient(transparent 55%, var(--mark) 55%, var(--mark) 92%, transparent 92%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.mark-orange { --mark: var(--orange); }
+.mark-pink { --mark: var(--pink); }
+
+/* Modal (<dialog>). Use it for every confirmation. Do not use window.confirm or window.alert. */
+.modal {
+  width: min(420px, calc(100vw - 32px));
+  margin: auto;
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.modal:not([open]) { display: none; }
+.modal::backdrop { background: rgba(0, 0, 0, 0.45); }
+.modal p { margin: 0; overflow-wrap: anywhere; }
+.modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 8px; }

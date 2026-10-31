@@ -1,0 +1,302 @@
+[
+  {
+    "sample_num": 1,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 80C of the Income-tax Act, 1961?",
+    "response": "Section 123 (read with Schedule XV, which lists the eligible instruments); it keeps the Rs 1.5 lakh aggregate deduction for individuals and HUFs."
+  },
+  {
+    "sample_num": 2,
+    "instruction": "Which section of the Income-tax Act, 2025 provides the deduction for health insurance premia that was available under section 80D of the Income-tax Act, 1961?",
+    "response": "Section 126 (Deduction in respect of health insurance premia)."
+  },
+  {
+    "sample_num": 3,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 80G of the Income-tax Act, 1961 (deduction for donations to certain funds and charitable institutions)?",
+    "response": "Section 133 (Deduction in respect of donations to certain funds, charitable institutions, etc.)."
+  },
+  {
+    "sample_num": 4,
+    "instruction": "Sections 80TTA and 80TTB of the Income-tax Act, 1961 allowed deductions for interest on deposits. Which single section of the Income-tax Act, 2025 now covers both?",
+    "response": "Section 153 (Deduction for interest on deposits), which covers both non-senior and senior-citizen individuals (and HUFs)."
+  },
+  {
+    "sample_num": 5,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 54F of the Income-tax Act, 1961 (exemption on investing capital gains from a non-residential long-term asset in a residential house)?",
+    "response": "Section 86."
+  },
+  {
+    "sample_num": 6,
+    "instruction": "For salary paid from April 2026 onwards, which provision of the Income-tax Act, 2025 replaces section 192 of the Income-tax Act, 1961 for TDS on salary?",
+    "response": "Section 392(1) of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 7,
+    "instruction": "A payment to a contractor (formerly covered by section 194C of the Income-tax Act, 1961) is made on 5 April 2026. Which provision of the Income-tax Act, 2025 must be quoted in the TDS return?",
+    "response": "Section 393(1), Table Sl. No. 6(i) of the Income-tax Act, 2025, not section 194C."
+  },
+  {
+    "sample_num": 8,
+    "instruction": "Forms 15G and 15H (no-TDS declarations) were governed by section 197A of the Income-tax Act, 1961. Which provision of the Income-tax Act, 2025 corresponds to it?",
+    "response": "Section 393(6) of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 9,
+    "instruction": "Which section of the Income-tax Act, 2025 consolidates the presumptive taxation schemes of sections 44AD, 44ADA and 44AE of the Income-tax Act, 1961?",
+    "response": "Section 58, which puts all three schemes into one section in tabular form."
+  },
+  {
+    "sample_num": 10,
+    "instruction": "Which provision of the Income-tax Act, 2025 corresponds to section 139(1) of the Income-tax Act, 1961 (return of income by the due date)?",
+    "response": "Section 263(1) of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 11,
+    "instruction": "Which provision of the Income-tax Act, 2025 corresponds to section 143(1) of the Income-tax Act, 1961 (processing of returns)?",
+    "response": "Section 270(1) of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 12,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 148 of the Income-tax Act, 1961 (issue of notice for reassessment)?",
+    "response": "Section 280 of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 13,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 234B of the Income-tax Act, 1961 (interest for default in payment of advance tax)?",
+    "response": "Section 424 of the Income-tax Act, 2025; the rate stays 1% per month or part of a month."
+  },
+  {
+    "sample_num": 14,
+    "instruction": "Which section of the Income-tax Act, 2025 corresponds to section 263 of the Income-tax Act, 1961 (revision of orders erroneous and prejudicial to the interests of revenue)?",
+    "response": "Section 377 of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 15,
+    "instruction": "Which section of the Income-tax Act, 2025 provides the penalty for failure to deduct tax at source, formerly in section 271C of the Income-tax Act, 1961?",
+    "response": "Section 448 (Penalty for failure to deduct tax at source)."
+  },
+  {
+    "sample_num": 16,
+    "instruction": "Under which Act is the return of income for income earned during FY 2025-26 filed, even though it is filed after 1 April 2026?",
+    "response": "The Income-tax Act, 1961; it is filed for Assessment Year 2026-27 because it relates to a tax year beginning before 1 April 2026."
+  },
+  {
+    "sample_num": 17,
+    "instruction": "How is a reference in the Income-tax Act, 2025 to 'tax year 2024-25' to be read?",
+    "response": "As the 'previous year 2024-25' under the Income-tax Act, 1961 (which corresponds to Assessment Year 2025-26), under section 536(3)."
+  },
+  {
+    "sample_num": 18,
+    "instruction": "After the Income-tax Act, 2025 came into force, which Act governs a reassessment, penalty or revision proceeding initiated on or after 1 April 2026 for a tax year beginning before 1 April 2026?",
+    "response": "The repealed Income-tax Act, 1961; such proceedings are carried out under its procedure (section 536(2)(c) of the 2025 Act)."
+  },
+  {
+    "sample_num": 19,
+    "instruction": "A company has an unabsorbed business loss from AY 2022-23 under the Income-tax Act, 1961. For how many more years can it be set off from Tax Year 2026-27 under the Income-tax Act, 2025?",
+    "response": "For the remaining four years; the transition does not restart the period, so the total stays eight years from AY 2022-23."
+  },
+  {
+    "sample_num": 20,
+    "instruction": "Advance tax for FY 2025-26 (AY 2026-27) was short-paid and interest is levied in FY 2026-27. Under which provisions is the interest charged?",
+    "response": "Under sections 234B and 234C of the Income-tax Act, 1961, because the obligation and default arose before the new Act commenced."
+  },
+  {
+    "sample_num": 21,
+    "instruction": "A contractor's bill is credited in the payer's books on 31 March 2026 and paid in April 2026. Which Act governs the TDS?",
+    "response": "The Income-tax Act, 1961, because TDS applies on the earlier of credit or payment, and the credit was on or before 31 March 2026."
+  },
+  {
+    "sample_num": 22,
+    "instruction": "Under the Income-tax Act, 2025 and the Income-tax Rules, 2026, which form number replaces Form 16 (TDS certificate for salary) for tax year 2026-27?",
+    "response": "Form No. 130. It is due by 15 June 2027 for tax year 2026-27; Form 16 under the 1961 Act still applies for FY 2025-26."
+  },
+  {
+    "sample_num": 23,
+    "instruction": "Under the Income-tax Act, 2025 regime, which form replaces Form 16A (TDS certificate for payments other than salary)?",
+    "response": "Form No. 131. For the April-June 2026 quarter it is due by 15 August 2026."
+  },
+  {
+    "sample_num": 24,
+    "instruction": "Under the Income-tax Act, 2025 and its rules, which form replaces Forms 15G and 15H (declarations for receiving income without TDS)?",
+    "response": "Form No. 121, a single form that replaces both 15G and 15H. It is the declaration under section 393(6) of the Income-tax Act, 2025."
+  },
+  {
+    "sample_num": 25,
+    "instruction": "Under the Income-tax Rules, 2026 (Income-tax Act, 2025), which form replaces the tax audit report Forms 3CA, 3CB and 3CD?",
+    "response": "Form No. 26, a single unified tax audit report that consolidates Forms 3CA, 3CB and 3CD."
+  },
+  {
+    "sample_num": 26,
+    "instruction": "Under the Income-tax Act, 2025 rules, which form replaces Form 10E (claim of relief for salary arrears)?",
+    "response": "Form 39."
+  },
+  {
+    "sample_num": 27,
+    "instruction": "Under the Income-tax Act, 2025 framework, which forms replace Form 49A for PAN applications by Indian citizens and by Indian companies or entities?",
+    "response": "Form No. 93 for Indian individuals (citizens) and Form No. 94 for companies or entities incorporated or formed in India. Form 49A was split into these two forms."
+  },
+  {
+    "sample_num": 28,
+    "instruction": "Under the Income-tax Act, 2025 rules, which forms replace Form 15CA and Form 15CB for payments to non-residents?",
+    "response": "Form No. 145 replaces Form 15CA (remittance information) and Form No. 146 replaces Form 15CB (accountant's certificate)."
+  },
+  {
+    "sample_num": 29,
+    "instruction": "Under the Income-tax Rules, 2026 (Income-tax Act, 2025), which forms replace quarterly TDS return Form 24Q (salary) and Form 26Q (non-salary)?",
+    "response": "Form 138 replaces Form 24Q and Form 140 replaces Form 26Q, starting with the April-June 2026 quarter."
+  },
+  {
+    "sample_num": 30,
+    "instruction": "Under the Income-tax Act, 2025 rules, which form replaces the challan-cum-statements Forms 26QB, 26QC, 26QD and 26QE?",
+    "response": "Form No. 141, one common challan-cum-statement for TDS under section 393(1)."
+  },
+  {
+    "sample_num": 31,
+    "instruction": "Under the Income-tax Act, 2025, from tax year 2026-27, which form number is the Annual Information Statement (AIS)?",
+    "response": "Form No. 168."
+  },
+  {
+    "sample_num": 32,
+    "instruction": "Under the Income-tax Act, 2025, how is the term \"tax year\" defined?",
+    "response": "The twelve-month period of the financial year commencing on 1st April (section 3(1)); it replaces the 1961 Act's \"previous year\"/\"assessment year\" pair."
+  },
+  {
+    "sample_num": 33,
+    "instruction": "Under the Income-tax Act, 2025, when a business or profession is newly set up during a financial year, when does its first tax year begin and end?",
+    "response": "It begins on the date of setting up of the business or profession and ends with that financial year (section 3(2))."
+  },
+  {
+    "sample_num": 34,
+    "instruction": "Under the definition of \"block of assets\" in the Income-tax Act, 2025, which intangible asset is expressly excluded?",
+    "response": "Goodwill of a business or profession (section 2(17)(b))."
+  },
+  {
+    "sample_num": 35,
+    "instruction": "Under the definition of \"capital asset\" in the Income-tax Act, 2025, agricultural land inside a municipality is a capital asset if the municipality's population is at least how many?",
+    "response": "Ten thousand (10,000); agricultural land in a municipality or cantonment board with a population of not less than ten thousand is not excluded from \"capital asset\" (section 2(22))."
+  },
+  {
+    "sample_num": 36,
+    "instruction": "Under section 202(1) of the Income-tax Act, 2025 (new tax regime), what rate of tax applies to the slab of total income from ₹8,00,001 to ₹12,00,000 for an individual?",
+    "response": "10% (section 202(1) Table, Sl. No. 3)."
+  },
+  {
+    "sample_num": 37,
+    "instruction": "Under the new tax regime in section 202(1) of the Income-tax Act, 2025, above what level of total income does the 30% rate apply to an individual?",
+    "response": "Above ₹24,00,000 (section 202(1) Table, Sl. No. 7)."
+  },
+  {
+    "sample_num": 38,
+    "instruction": "Under section 156(2) of the Income-tax Act, 2025, what is the maximum rebate available to a resident individual taxed under the new regime (section 202(1)) whose total income does not exceed ₹12 lakh?",
+    "response": "₹60,000 (or 100% of the tax payable, if less), under section 156(2)(a)."
+  },
+  {
+    "sample_num": 39,
+    "instruction": "Under the Income-tax Act, 2025, what is the standard deduction from salary for an employee whose tax is computed under the new regime in section 202(1)?",
+    "response": "₹75,000 or the salary, whichever is less (section 19, Table Sl. No. 2); it is ₹50,000 in other cases."
+  },
+  {
+    "sample_num": 40,
+    "instruction": "Under section 393(1) of the Income-tax Act, 2025, at what rate must a specified person deduct tax from rent paid for the use of land or a building?",
+    "response": "10% (section 393(1) Table Sl. No. 2(ii)); the threshold is ₹50,000 for a month or part of a month."
+  },
+  {
+    "sample_num": 41,
+    "instruction": "Under section 393(1) of the Income-tax Act, 2025, what is the TDS threshold for interest (other than interest on securities) paid by a banking company to a senior citizen?",
+    "response": "₹1,00,000 (section 393(1) Table Sl. No. 5(ii)); for persons other than senior citizens it is ₹50,000."
+  },
+  {
+    "sample_num": 42,
+    "instruction": "Under section 393(1) of the Income-tax Act, 2025, above what aggregate amount of payments in a tax year to a contractor must tax be deducted, even if no single payment exceeds ₹30,000?",
+    "response": "₹1,00,000 aggregate (section 393(1) Table Sl. No. 6(i)); the single-payment threshold is ₹30,000."
+  },
+  {
+    "sample_num": 43,
+    "instruction": "Under section 393(1) of the Income-tax Act, 2025, what is the TDS threshold for fees for professional services paid by a specified person?",
+    "response": "₹50,000 (section 393(1) Table Sl. No. 6(iii)); tax is deducted at 10%."
+  },
+  {
+    "sample_num": 44,
+    "instruction": "Under section 58(2) of the Income-tax Act, 2025, what is the maximum gross receipts limit for presumptive taxation of a specified profession when cash receipts do not exceed 5% of gross receipts?",
+    "response": "₹75 lakh (seventy-five lakh rupees); otherwise the limit is ₹50 lakh, and 50% of gross receipts is deemed profit (section 58(2) Table Sl. No. 3)."
+  },
+  {
+    "sample_num": 45,
+    "instruction": "Under section 58(2) of the Income-tax Act, 2025, what is the maximum turnover for presumptive taxation of an eligible business when cash receipts do not exceed 5% of total turnover?",
+    "response": "₹3 crore (three crore rupees); otherwise the limit is ₹2 crore (section 58(2) Table Sl. No. 1)."
+  },
+  {
+    "sample_num": 46,
+    "instruction": "Under section 63 of the Income-tax Act, 2025, up to what turnover is a business exempt from tax audit if its cash receipts and cash payments each do not exceed 5%?",
+    "response": "₹10 crore (section 63(1) Table Sl. No. 1(b)); the normal limit is ₹1 crore."
+  },
+  {
+    "sample_num": 47,
+    "instruction": "Under section 63 of the Income-tax Act, 2025, above what gross receipts in a tax year must a person carrying on a profession get accounts audited?",
+    "response": "Above ₹50 lakh (fifty lakh rupees) (section 63(1) Table Sl. No. 1(c))."
+  },
+  {
+    "sample_num": 48,
+    "instruction": "Under section 263 of the Income-tax Act, 2025 as amended by the Finance Act, 2026, what is the due date for the return of an assessee with business or profession income whose accounts are not required to be audited (transfer-pricing report not applicable)?",
+    "response": "31st August of the financial year after the tax year (section 263(1)(c) Table Sl. No. 3); other non-audit assessees remain at 31st July."
+  },
+  {
+    "sample_num": 49,
+    "instruction": "Under section 198 of the Income-tax Act, 2025, long-term capital gains on STT-paid listed equity shares are taxed at 12.5% on the amount exceeding what limit?",
+    "response": "₹1,25,000 (section 198(2)(a))."
+  },
+  {
+    "sample_num": 50,
+    "instruction": "Under section 196 of the Income-tax Act, 2025, at what rate are short-term capital gains on STT-paid equity shares taxed?",
+    "response": "20% (section 196(1)(i))."
+  },
+  {
+    "sample_num": 51,
+    "instruction": "Under section 195 of the Income-tax Act, 2025 as amended by the Finance Act, 2026, at what rate is income referred to in sections 102 to 106 (e.g. unexplained credits) taxed?",
+    "response": "30% (section 195(1))."
+  },
+  {
+    "sample_num": 52,
+    "instruction": "What rate of Minimum Alternate Tax on book profit applies to a company (not an IFSC unit) under section 206 of the Income-tax Act, 2025 after the Finance Act, 2026?",
+    "response": "14% of book profit, reduced from 15% by the Finance Act, 2026 with effect from 1 April 2026."
+  },
+  {
+    "sample_num": 53,
+    "instruction": "After the Finance Act, 2026, within what time can a revised return be filed under section 263(5) of the Income-tax Act, 2025?",
+    "response": "Within twelve months from the end of the relevant tax year, or before the assessment is completed, whichever is earlier. It was nine months before the amendment."
+  },
+  {
+    "sample_num": 54,
+    "instruction": "After the Finance Act, 2026, how much interest expenditure can be deducted against dividend income or mutual fund unit income under section 93(2) of the Income-tax Act, 2025?",
+    "response": "None. The substituted section 93(2) allows no deduction of interest expenditure against dividend income or income from mutual fund units."
+  },
+  {
+    "sample_num": 55,
+    "instruction": "Which new section did the Finance Act, 2026 insert in the Income-tax Act, 2025 on mergers between registered non-profit organisations, and what does it provide?",
+    "response": "Section 354A. Section 352 (tax on accreted income) does not apply when one registered NPO merges with another that has the same or similar objects and the merger meets prescribed conditions."
+  },
+  {
+    "sample_num": 56,
+    "instruction": "Under section 446 of the Income-tax Act, 2025 as substituted by the Finance Act, 2026, what penalty applies for failing to furnish the crypto-asset transaction statement under section 509(1) on time?",
+    "response": "Rs 200 for every day the failure continues. A separate penalty of Rs 50,000 applies for inaccurate information that is not corrected, or for failing to do due diligence."
+  },
+  {
+    "sample_num": 57,
+    "instruction": "How many sections and schedules does the Income-tax Act, 2025 contain, compared with the Income-tax Act, 1961?",
+    "response": "536 sections (numbered 1 to 536) and 16 schedules, against 819 sections and 14 schedules in the 1961 Act. The Finance Act, 2026 later inserted section 354A."
+  },
+  {
+    "sample_num": 58,
+    "instruction": "Which section of the Income-tax Act, 2025 repeals the Income-tax Act, 1961?",
+    "response": "Section 536 (Repeal and savings)."
+  },
+  {
+    "sample_num": 59,
+    "instruction": "Which Schedule of the Income-tax Act, 2025 lists the sums (life insurance premia, provident fund contributions and similar) that qualify for the deduction under section 123, the counterpart of old section 80C?",
+    "response": "Schedule XV."
+  },
+  {
+    "sample_num": 60,
+    "instruction": "Which Schedule of the Income-tax Act, 2025 lists persons who are exempt from income-tax on their total income?",
+    "response": "Schedule VII (Persons exempt from tax)."
+  }
+]

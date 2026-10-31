@@ -1,0 +1,62 @@
+/* Design tokens. See STYLE_GUIDE.md. */
+:root,
+[data-theme='light'] {
+  color-scheme: light;
+  --bg: #ffffff;
+  --bg-soft: #f3f8f5;
+  --text: #14211b;
+  --text-muted: #44514b;
+  --ink: #14211b;
+  --ink-text: #ffffff;
+  --green: #abe2cb;
+  --green-hover: #abe2cb;
+  --green-text: #14211b;
+  --green-strong: #1f7a55;
+  --green-soft: #e3f5ec;
+  --orange: #ffe4cc;
+  --pink: #f9dcf8;
+  --border: #14211b;
+  --input-border: rgba(20, 33, 27, 0.2);
+  --shadow: #14211b;
+  --error-bg: #fde2e1;
+  --error-text: #9b1c1c;
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #111613;
+  --bg-soft: #18201b;
+  --text: #e5e5e5;
+  --text-muted: #bbbbbb;
+  --ink: #f7f7f7;
+  --ink-text: #14211b;
+  --green: #2f4f3f;
+  --green-hover: #3a6650;
+  --green-text: #f2f2f2;
+  --green-strong: #6fd3a5;
+  --green-soft: #1c2a22;
+  --orange: #503830;
+  --pink: #503048;
+  --border: #eeeeee;
+  --input-border: rgba(229, 229, 229, 0.2);
+  --shadow: #eeeeee;
+  --error-bg: #503030;
+  --error-text: #ffd6d6;
+}
+
+:root {
+  --font-display: 'Bebas Neue', 'Noto Sans', sans-serif;
+  --font-body: 'Noto Sans', system-ui, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+
+  --radius-box: 2rem;
+  --radius-btn: 9999px;
+  --radius-badge: 1.9rem;
+  --radius-field: 1rem;
+
+  --shadow-sm: 3px 3px 0 0 var(--shadow);
+  --shadow-xl: 6px 6px 0 0 var(--shadow);
+
+  --ease: cubic-bezier(0, 0, 0.2, 1);
+  --duration: 0.2s;
+}
